@@ -12,6 +12,7 @@ COVID-19 Impact Lab
 
    goals
    onboarding
+   datasets
    tasks
    tech_support
    coding_guidelines
