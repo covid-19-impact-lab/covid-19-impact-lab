@@ -21,17 +21,21 @@ The LISS Panel
 
 The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
 
-The LISS included a questionnaire on the Covid-19 epidemic between 2020-03-20 and 2020-03-31.
+The LISS includes a questionnaire on the COVID-19 epidemic between 2020-03-20 and 2020-03-31, which has been designed by our team.
 
 .. The questionnaire covered:
 ..
 .. - beliefs about the extent of the epidemic, ways to fight it and its consequences
-.. - behavior changes in response to the epidemic and policy measures
-.. - support for hypothetical and satisfaction with implemented policy measures
+.. - behavioral changes in response to the epidemic and policy measures
+.. - support for policy measures on social distancing, both as implemented and hypothetical
 .. - qualifications and willingness to support the health care system
+.. -
 
-The Dutch version of the questionnaire can be downloaded
-:download:`here <../_static/LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`.
+The contents of questionnaire are available for download here:
+
+* :download:`Dutch original <../_static/LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`.
+* :download:`English translation (preliminary) <../_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`.
+
 
 Understanding America Survey
 =============================
