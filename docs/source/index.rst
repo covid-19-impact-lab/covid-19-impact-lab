@@ -6,11 +6,11 @@
 COVID-19 Impact Lab
 ===================
 
-The current crisis forced decision-makers to take decisions with far-reaching consequences without a reliable foundation in March 2020. Our primary goal is to get helpful insights from empirical data and to communicate them as quickly as possible to the public and decision-makers. We leave the medical topics to the experts and focus on the effect of the crisis and measures to combat it on people's behavior, fears and beliefs. Secondly, we will provide in-depth analyses of the data in order to better prepare for other crises.
+Our goal is to analyse the effect of the current crisis and countermeasures on people's behaviour, fears, and beliefs. Our short-run goal is to generate helpful insights from contemporaneous data; we will communicate them as quickly as possible to the public and decision-makers. In the medium run, we will provide further in-depth analyses to be communicated in the usual scientific way.
 
-Covid-19 impact lab was initiated by a group of economists at Bonn. While our research projects usually take months or years to materialize, the situation in March 2020 prompted us to combine efforts in order to speed things up.
+COVID-19 impact lab was initiated by a group of economists at Bonn. While our research projects usually take months or years to materialize, the situation in March 2020 prompted us to combine efforts in order to speed things up. We are eager to further increase our bandwidth for data analysis and communication. If you think about contributing yourself, you can find all necessary information on the following pages.
 
-If you are interested to learn more about our goals and research or want to contribute you can find all necessary information on the following pages.
+This site will also hold results from our analysis. Stay tuned!
 
 .. toctree::
    :maxdepth: 1
@@ -21,6 +21,3 @@ If you are interested to learn more about our goals and research or want to cont
    onboarding
    tech_support
    coding_guidelines
-
-
-
