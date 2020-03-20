@@ -5,8 +5,6 @@ Datasets
 ========
 
 STILL MISSING:
-- https://ose.zulipchat.com/#narrow/stream/221422-general/topic/%28no.20topic%29/near/191052844
-- https://www.psycharchives.org/handle/20.500.12034/2386
 - https://www.reddit.com/r/datasets/comments/exnzrd/coronavirus_datasets/
 
 
@@ -54,7 +52,18 @@ Information on the questionnaire can be found `here <https://uasdata.usc.edu/pag
 .. No information on their website as of March 20th.
 
 
+Germany COVID-19 Snapshot Monitoring 
+=====================================
 
+This serial cross-sectional study monitors public perceptions of risk, protective and preparedness behaviours, public trust, as well as knowledge and misinformation to enable government spokespeople, the media, and health organizations to implement adequate responses in Germany.
+
+More information can be found `here <http://dx.doi.org/10.23668/psycharchives.2776>`_ and `here <https://www.uni-erfurt.de/kommunikationswissenschaft/profil/professuren/pidi/>`_.
+
+
+Country Time Series of Confirmed Cases and Deaths
+==================================================
+
+The John Hopkins University Center for Systems Science and Engineering provides time series for most countries on this `github repository <https://github.com/CSSEGISandData/COVID-19>`_. Data is updated daily and available as .csv files.
 
 
 - gescrappete Datensätze
@@ -63,8 +72,15 @@ Information on the questionnaire can be found `here <https://uasdata.usc.edu/pag
 
 
 .. people to contact:
+.. ===================
 
 .. haushofer@gmail.com 
 .. - https://twitter.com/jhaushofer/status/1240387414151041025 
 .. - 1300 words, many languages
+
+
+Webpages with Visualizations
+=============================
+
+- https://www.worldometers.info/coronavirus/
 
