@@ -4,28 +4,23 @@
 Datasets
 ========
 
-STILL MISSING:
-- https://www.reddit.com/r/datasets/comments/exnzrd/coronavirus_datasets/
+By now there are quite a few established panels as well as new studies studying the Covid-19's impact. 
+Here we list and document all that we are aware of for researchers who are interested in working on Covid-19's impact on our societies. We only focus on datasets, so this section does not try to cover the many amazing visualizations out there. 
 
-
-Here we describe datasets we are going to use. 
-
-If you have questions or want to make use aware of other relevant datasets, please contact `Klara Röhrl <https://github.com/roecla>`_ via Zulip or Email.
-
+As there are new studies being planned and being rolled out, do not hesitate make us aware of new studies and datasets. 
+To do so please contact `Klara Röhrl <https://github.com/roecla>`_ via Zulip or Email.
 
 LISS
 ====
 
-The `LISS panel <https://www.lissdata.nl/`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
+The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
 
-Thanks to funding by the `German Research Funding through CRCTR224 <https://www.crctr224.de/en`_ the LISS included a questionnaire on the Covid-19 epidemic between 2020-03-20 and 2020-03-31. The questionnaire covered:
+The LISS included a questionnaire on the Covid-19 epidemic between 2020-03-20 and 2020-03-31. The questionnaire covered:
 
 - beliefs about the extent of the epidemic, ways to fight it and its consequences
 - behavior changes in response to the epidemic and policy measures
 - support for hypothetical and satisfaction with implemented policy measures
 - qualifications and willingness to support the health care system
-
-- what we use it for
 
 
 Understanding America Survey 
@@ -63,12 +58,18 @@ More information can be found `here <http://dx.doi.org/10.23668/psycharchives.27
 Country Time Series of Confirmed Cases and Deaths
 ==================================================
 
-The John Hopkins University Center for Systems Science and Engineering provides time series for most countries on this `github repository <https://github.com/CSSEGISandData/COVID-19>`_. Data is updated daily and available as .csv files.
+The John Hopkins University Center for Systems Science and Engineering provides time series at the country level on this `github repository <https://github.com/CSSEGISandData/COVID-19>`_. Data is updated daily and available as .csv files.
+
+MIDAS Epidemiologic Model Estimates 
+=====================================
+
+The MIDAS Coordination Center collects mostly peer-reviewed estimates for parameters central to modelling Covid-19 epidemiologically. The data can be found on this `github repository <https://github.com/midas-network/COVID-19>`_.
 
 
-- gescrappete Datensätze
-- zu anderen github Ordnern verbinden
+.. Scrapped Datasets
+.. ===================
 
+.. none so far
 
 
 .. people to contact:
@@ -77,10 +78,3 @@ The John Hopkins University Center for Systems Science and Engineering provides 
 .. haushofer@gmail.com 
 .. - https://twitter.com/jhaushofer/status/1240387414151041025 
 .. - 1300 words, many languages
-
-
-Webpages with Visualizations
-=============================
-
-- https://www.worldometers.info/coronavirus/
-
