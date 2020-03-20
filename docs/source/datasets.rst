@@ -4,10 +4,12 @@
 Datasets
 ========
 
-By now there are quite a few established panels as well as new studies studying the Covid-19's impact. 
-Here we list and document all that we are aware of for researchers who are interested in working on Covid-19's impact on our societies. We only focus on datasets, so this section does not try to cover the many amazing visualizations out there. 
+By now there are quite a few established panels as well as new studies studying the the impact Covid-19.
+Here we list and document all datasets that we are aware of for researchers who are interested in working on Covid-19's impact on our societies. 
+We only focus on datasets, so this section does not try to cover the many amazing visualizations out there. 
 
-As there are new studies being planned and being rolled out, do not hesitate make us aware of new studies and datasets. 
+As there are new studies being planned and being rolled out all the time, 
+do not hesitate make us aware of any new data sources that are still missing on this page.
 To do so please contact `Klara Röhrl <https://github.com/roecla>`_ via Zulip or Email.
 
 -------------------------
@@ -19,14 +21,16 @@ The LISS Panel
 
 The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
 
-The LISS included a questionnaire on the Covid-19 epidemic between 2020-03-20 and 2020-03-31. The questionnaire covered:
+The LISS included a questionnaire on the Covid-19 epidemic between 2020-03-20 and 2020-03-31. 
 
-- beliefs about the extent of the epidemic, ways to fight it and its consequences
-- behavior changes in response to the epidemic and policy measures
-- support for hypothetical and satisfaction with implemented policy measures
-- qualifications and willingness to support the health care system
+.. The questionnaire covered:
+.. 
+.. - beliefs about the extent of the epidemic, ways to fight it and its consequences
+.. - behavior changes in response to the epidemic and policy measures
+.. - support for hypothetical and satisfaction with implemented policy measures
+.. - qualifications and willingness to support the health care system
 
-The Dutch version of the questionnaire can be found 
+The Dutch version of the questionnaire can be downloaded  
 :download:`here <LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`.
 
 Understanding America Survey 
@@ -72,7 +76,7 @@ The John Hopkins University Center for Systems Science and Engineering provides 
 
 Another `source <https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide>`_ for such data is the European Centre for Disease Prevention and Control.
 
-For data at the regional level, we currently know of the following data sources. 
+At the regional level, we are aware of the following data sources: 
 
 For Germany disaggregate data down to the "Landkreis" level can be queried from the 
 Robert-Koch-Institut `here <https://survstat.rki.de/Content/Query/Create.aspx>`_. 
