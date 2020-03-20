@@ -33,7 +33,7 @@ The LISS includes a questionnaire on the COVID-19 epidemic between 2020-03-20 an
 
 Here are the contents of questionnaire:
 :download:`Dutch original <../_static/LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`.
-:download:`English translation <../_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`.
+:download:`English translation (preliminary) <../_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`.
 
 
 Understanding America Survey
