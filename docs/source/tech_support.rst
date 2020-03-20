@@ -7,7 +7,7 @@ We have a Zulip channel for tech-support related to COVID-19 Impact Lab projects
 
 Below we describe the different sub-channels and how you should ask your questions such that we can help you efficiently.
 
-Designing a large project
+Designing a Large Project
 ==========================
 
 Situation
@@ -29,7 +29,7 @@ What you should do
 3. Post it in the corresponding zulip channel and let us know when you have time for a call.
 
 
-Implementing a specific feature
+Implementing a Specific Feature
 ================================
 
 Situation
