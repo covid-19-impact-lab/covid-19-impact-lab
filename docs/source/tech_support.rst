@@ -7,8 +7,8 @@ We have a Zulip channel for tech-support related to COVID-19 Impact Lab projects
 
 Below we describe the different sub-channels and how you should ask your questions such that we can help you efficiently.
 
-Project Design
-==============
+Designing a large project
+==========================
 
 Situation
 ---------
@@ -29,8 +29,8 @@ What you should do
 3. Post it in the corresponding zulip channel and let us know when you have time for a call.
 
 
-Implementation question
-=======================
+Implementing a specific feature
+================================
 
 Situation
 ---------
@@ -61,8 +61,8 @@ of a function interface, e.g.:
 The most likely thing is that writing the problem down so precisely already gives you an idea for the solution. If not, post it on Zulip and we will find someone who solves your problem.
 
 
-Debugging
-=========
+Debugging Code
+================
 
 Situation
 ---------
@@ -75,8 +75,8 @@ What you should do
 Read `this great article <http://matthewrocklin.com/blog/work/2018/02/28/minimal-bug-reports>`_ on writing bug reports and write a bug report in the zulip channel.
 
 
-Installation Problems
-=====================
+Solving Installation Problems
+==============================
 
 Situation
 ---------
