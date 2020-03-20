@@ -14,8 +14,8 @@ To do so please contact `Klara Röhrl <https://github.com/roecla>`_ via Zulip or
 Social Science Datasets
 -------------------------
 
-LISS
-====
+The LISS Panel
+===============
 
 The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
 
@@ -26,7 +26,8 @@ The LISS included a questionnaire on the Covid-19 epidemic between 2020-03-20 an
 - support for hypothetical and satisfaction with implemented policy measures
 - qualifications and willingness to support the health care system
 
-The Dutch version can be found `here <LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`_.
+The Dutch version of the questionnaire can be found 
+:download:`here <LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`.
 
 Understanding America Survey 
 =============================
