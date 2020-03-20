@@ -14,7 +14,7 @@ Collaboration and Version Control
 Essential
 ---------
 
-- Use git for version control and host your project on GitHub. This is the most important of all guidelines on this page.
+- Use git for version control and host your project on our `GitHub page <https://github.com/covid-19-impact-lab>`_. This is the most important of all guidelines on this page.
 - Write a good README for your repository. The README should tell a new contributor:
     - What programs have to be installed to run your code
     - How to run your code
