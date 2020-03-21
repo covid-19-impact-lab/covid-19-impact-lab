@@ -9,10 +9,18 @@ dependencies:
 
   - python=3.7
   - pip=19.0.3
+  - pandas>=1.0
+  - numpy
+  - scipy
+  - seaborn>=0.10
   - jupyterlab
   - nbsphinx
   - pdbpp
   - sphinx
+  - mock
+  - nose
+  - scikit-learn
+  - xlrd
   - pip:
     - black
     - blackcellmagic
