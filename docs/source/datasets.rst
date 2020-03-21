@@ -30,8 +30,11 @@ The LISS included a questionnaire on the Covid-19 epidemic between 2020-03-20 an
 .. - support for hypothetical and satisfaction with implemented policy measures
 .. - qualifications and willingness to support the health care system
 
-The Dutch version of the questionnaire can be downloaded
-:download:`here <../_static/LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`.
+An English translation of the questionnaire can be downloaded
+:download:`here <../_static/translated_liss_covid_19-improved-version.pdf>` and 
+the original Dutch version
+:download:`here <LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`.
+
 
 Understanding America Survey
 =============================
