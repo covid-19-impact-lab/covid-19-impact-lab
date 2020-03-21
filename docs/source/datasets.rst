@@ -33,15 +33,15 @@ The LISS includes a questionnaire on the COVID-19 epidemic between 2020-03-20 an
 
 The contents of questionnaire are available for download here:
 
-* :download:`Dutch original <../_static/LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`.
-* :download:`English translation (preliminary) <../_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`.
+* :download:`Dutch original <_static/LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`.
+* :download:`English translation (preliminary) <_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`.
 
 
 Understanding America Survey
 =============================
 
 The `Understanding America Survey  <https://uasdata.usc.edu/>`_ included a questionnaire between 2020-03-10 and 2020-03-16 with over 5000 observations.
-Information on the questionnaire can be found `here <https://uasdata.usc.edu/page/COVID-19+Corona+Virus>`_.
+Information on the questionnaire can be found `here <https://uasdata.usc.edu/page/COVID-19+Corona+Virus>`__.
 
 
 .. GESIS
@@ -66,7 +66,7 @@ Germany COVID-19 Snapshot Monitoring
 
 This serial cross-sectional study monitors public perceptions of risk, protective and preparedness behaviours, public trust, as well as knowledge and misinformation to enable government spokespeople, the media, and health organizations to implement adequate responses in Germany.
 
-More information can be found `here <http://dx.doi.org/10.23668/psycharchives.2776>`_ and `here <https://www.uni-erfurt.de/kommunikationswissenschaft/profil/professuren/pidi/>`_.
+More information can be found `here <http://dx.doi.org/10.23668/psycharchives.2776>`__ and `here <https://www.uni-erfurt.de/kommunikationswissenschaft/profil/professuren/pidi/>`__.
 
 International Survey on Coronavirus
 ===================================
@@ -81,14 +81,14 @@ Epidemiological Datasets
 Country Time Series of Confirmed Cases and Deaths
 ==================================================
 
-The John Hopkins University Center for Systems Science and Engineering provides time series at the country level on this `github repository <https://github.com/CSSEGISandData/COVID-19>`_. Data is updated daily and available as .csv files.
+The John Hopkins University Center for Systems Science and Engineering provides time series at the country level on this `github repository <https://github.com/CSSEGISandData/COVID-19>`__. Data is updated daily and available as .csv files.
 
 Another `source <https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide>`_ for such data is the European Centre for Disease Prevention and Control.
 
 At the regional level, we are aware of the following data sources:
 
 For Germany disaggregate data down to the "Landkreis" level can be queried from the
-Robert-Koch-Institut `here <https://survstat.rki.de/Content/Query/Create.aspx>`_.
+Robert-Koch-Institut `here <https://survstat.rki.de/Content/Query/Create.aspx>`__.
 Note that the disaggregate cases do not add up to the numbers at the state and country level but only cover approximately 50 percent of cases.
 
 For other countries we don't know of datasets that are maintained at the regional level. However, we are aware of a newssite following the cases at the state / region level for
@@ -99,7 +99,7 @@ For other countries we don't know of datasets that are maintained at the regiona
 MIDAS Epidemiologic Model Estimates
 =====================================
 
-The MIDAS Coordination Center collects mostly peer-reviewed estimates for parameters central to modelling Covid-19 epidemiologically. The data can be found on this `github repository <https://github.com/midas-network/COVID-19>`_.
+The MIDAS Coordination Center collects mostly peer-reviewed estimates for parameters central to modelling Covid-19 epidemiologically. The data can be found on this `github repository <https://github.com/midas-network/COVID-19>`__.
 
 
 Transmission Data Using Genom Sequencing
