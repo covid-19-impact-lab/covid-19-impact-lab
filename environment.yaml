@@ -21,6 +21,7 @@ dependencies:
   - nose
   - scikit-learn
   - xlrd
+  - conda-build
   - pip:
     - black
     - blackcellmagic
