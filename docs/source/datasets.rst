@@ -68,6 +68,11 @@ This serial cross-sectional study monitors public perceptions of risk, protectiv
 
 More information can be found `here <http://dx.doi.org/10.23668/psycharchives.2776>`_ and `here <https://www.uni-erfurt.de/kommunikationswissenschaft/profil/professuren/pidi/>`_.
 
+International Survey on Coronavirus
+===================================
+
+https://covid19-survey.org/ — large-scale international study; anybody can participate, invitations via social media. In the field since 20 March, status as of 21 March: "Anonymized data will be made available for non-commercial research use. More details will follow soon."
+
 
 --------------------------
 Epidemiological Datasets
