@@ -2,16 +2,7 @@
 
 Our goal is to analyse the effect of the current crisis and countermeasures on people's behaviour, fears, and beliefs. Our short-run goal is to generate helpful insights from contemporaneous data; we will communicate them as quickly as possible to the public and decision-makers. In the medium run, we will provide further in-depth analyses to be communicated in the usual scientific way.
 
-If you are interested to learn more about our goals and research or want to contribute you can find all necessary information [here](https://covid-19-impact-lab.readthedocs.io)
-
-
-Overview of repositories
----
-
-
- Repository  | Content
------------- | -------------
-[`covid-19-liss-data-management`](https://github.com/covid-19-impact-lab/covid-19-liss-data-management) | Setup the relevant LISS data
+COVID-19 impact lab was initiated by a group of economists at Bonn, who are passionate about writing robust code to analyse data in a multitude of fashions. While our research projects usually take months or years to materialize, the situation in March 2020 prompted us to combine efforts in order to speed things up. We are eager to further increase our bandwidth for data analysis and communication. If you are interested to learn more about our goals and research or want to contribute you can find all necessary information [here](https://covid-19-impact-lab.readthedocs.io)
 
 
 Contributors and Supporters
