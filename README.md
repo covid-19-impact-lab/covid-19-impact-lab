@@ -1,5 +1,6 @@
 # COVID-19 Impact Lab
 
+
 Our goal is to analyse the effect of the current crisis and countermeasures on people's
 behaviour, fears, and beliefs. Our short-run goal is to generate helpful insights from
 contemporaneous data; we will communicate them as quickly as possible to the public and
@@ -19,13 +20,13 @@ information [here](https://covid-19-impact-lab.readthedocs.io)
 
 <p align="center">
 
-  <a href="https://www.uni-bonn.de">
+  <a href="https://www.econ.uni-bonn.de">
      <img src="docs/source/_static/images/uni_bonn_logo.png" width="150"
      alt="Universität Bonn">
   </a>
   &emsp;
 
-  <a href="https://www.iza.org">
+  <a href="https://github.com/OpenSourceEconomics">
      <img src="docs/source/_static/images/OSE_bonn_web.png" width="150"
      alt="Open Source Economics">
   </a>
