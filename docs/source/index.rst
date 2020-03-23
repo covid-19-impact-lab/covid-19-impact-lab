@@ -14,3 +14,30 @@ COVID-19 impact lab was initiated by a group of economists at Bonn, who are pass
    onboarding
    tech_support
    coding_guidelines
+
+
+Initiated by
+============
+
+.. raw:: html
+
+    <p align="center">
+
+      <a href="https://www.uni-bonn.de">
+         <img src="_static/images/uni_bonn_logo.png" width="150"
+         alt="Universität Bonn">
+      </a>
+      &emsp;
+
+      <a href="https://www.iza.org">
+         <img src="_static/images/OSE_bonn_web.png" width="150"
+         alt="Open Source Economics">
+      </a>
+      &emsp;
+
+      <a href="https://www.iza.org">
+         <img src="_static/images/iza_logo.jpg" width="150" alt="IZA">
+      </a>
+      &emsp;
+
+    </p>
