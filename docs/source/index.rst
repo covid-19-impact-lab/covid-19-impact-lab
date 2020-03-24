@@ -40,7 +40,7 @@ Supported by
       &emsp;
 
       <a href="https://github.com/OpenSourceEconomics">
-         <img src="_static/images/OSE_bonn_web.png" width="150"
+         <img src="_static/images/ose_logo.jpg" width="150"
          alt="Open Source Economics">
       </a>
       &emsp;
