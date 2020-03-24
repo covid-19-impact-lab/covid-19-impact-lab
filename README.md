@@ -27,7 +27,7 @@ information [here](https://covid-19-impact-lab.readthedocs.io)
   &emsp;
 
   <a href="https://github.com/OpenSourceEconomics">
-     <img src="docs/source/_static/images/OSE_bonn_web.png" width="150"
+     <img src="docs/source/_static/images/ose_logo.jpg" width="150"
      alt="Open Source Economics">
   </a>
   &emsp;
