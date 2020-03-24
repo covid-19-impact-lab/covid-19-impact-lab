@@ -4,8 +4,8 @@
 Datasets
 ========
 
-By now there are quite a few established panels as well as new studies studying the the impact Covid-19.
-Here we list and document all datasets that we are aware of for researchers who are interested in working on Covid-19's impact on our societies.
+By now there are quite a few established panels as well as new studies studying the the impact CoViD-19.
+Here we list and document all datasets that we are aware of for researchers who are interested in working on CoViD-19's impact on our societies.
 We only focus on datasets, so this section does not try to cover the many amazing visualizations out there.
 
 As there are new studies being planned and being rolled out all the time,
@@ -21,7 +21,7 @@ The LISS Panel
 
 The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
 
-The LISS includes a questionnaire on the COVID-19 epidemic between 2020-03-20 and 2020-03-31, which has been designed by our team.
+The LISS includes a questionnaire on the CoViD-19 epidemic between 2020-03-20 and 2020-03-31, which has been designed by our team.
 
 .. The questionnaire covered:
 ..
@@ -61,7 +61,7 @@ Information on the questionnaire can be found `here <https://uasdata.usc.edu/pag
 .. No information on their website as of March 20th.
 
 
-Germany COVID-19 Snapshot Monitoring
+Germany CoViD-19 Snapshot Monitoring
 =====================================
 
 This serial cross-sectional study monitors public perceptions of risk, protective and preparedness behaviours, public trust, as well as knowledge and misinformation to enable government spokespeople, the media, and health organizations to implement adequate responses in Germany.
@@ -99,7 +99,7 @@ For other countries we don't know of datasets that are maintained at the regiona
 MIDAS Epidemiologic Model Estimates
 =====================================
 
-The MIDAS Coordination Center collects mostly peer-reviewed estimates for parameters central to modelling Covid-19 epidemiologically. The data can be found on this `github repository <https://github.com/midas-network/COVID-19>`__.
+The MIDAS Coordination Center collects mostly peer-reviewed estimates for parameters central to modelling CoViD-19 epidemiologically. The data can be found on this `github repository <https://github.com/midas-network/COVID-19>`__.
 
 
 Transmission Data Using Genom Sequencing
