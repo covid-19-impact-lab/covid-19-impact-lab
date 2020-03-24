@@ -8,7 +8,7 @@ Here is a picture from a typical lab meeting:
 .. image:: _static/images/team_meeting.jpg
    :width: 600
 
-Distributed the workload across several teams... 
+Distributed the workload across several teams... Unless otherwise noted, contributors are affiliated with the Economics Department at the University of Bonn, whether as students or as faculty.
 
 LISS data
 =========
@@ -19,13 +19,13 @@ Questionnaire Design
 * Hans-Martin von Gaudecker
 * Radost Holler
 * Lena Janys
-* Jürgen Maurer
+* Jürgen Maurer (Lausanne)
 * Moritz Mendel
 * Klara Röhrl
-* Bettina Siflinger
-* Mark Spils
+* Bettina Siflinger (Tilburg)
+* Mark Spils (Mannheim)
 * Renske Stans
-* Christian Zimpelmann
+* Christian Zimpelmann (IZA)
 
 
 Data preparation
@@ -41,7 +41,7 @@ Risk perceptions and policies regarding the spread of the disease
 * Janos Gabler
 * Hans-Martin von Gaudecker
 * Simon Heiler
-* Jürgen Maurer
+* Jürgen Maurer (Lausanne)
 * Moritz Mendel
 * Klara Röhrl
 
@@ -49,25 +49,25 @@ Mental health and biggest worries in the immediate future
 *********************************************************
 
 * Moritz Mendel
-* Bettina Siflinger
+* Bettina Siflinger (Tilburg)
 
 Changes in the work and childcare situation since the onset of the crisis
 *************************************************************************
 
 * Lena Janys
-* Bettina Siflinger
+* Bettina Siflinger (Tilburg)
 * Radost Holler
-* Christian Zimpelmann
+* Christian Zimpelmann (IZA)
 
 Intended behaviour and expectations
 ***********************************
 
-* Maria Balgova
+* Maria Balgova (IZA)
 * Hans-Martin von Gaudecker
-* Ingo Isphording
-* Jürgen Maurer
+* Ingo Isphording (IZA)
+* Jürgen Maurer (Lausanne)
 * Moritz Mendel
-* Christian Zimpelmann
+* Christian Zimpelmann (IZA)
 
 
 GESIS data
@@ -75,7 +75,7 @@ GESIS data
 
 * Radost Holler
 * Rafael Suchy
-* Ingo Isphording
+* Ingo Isphording (IZA)
 * ...
 
 Social Media Sentiment Analysis
