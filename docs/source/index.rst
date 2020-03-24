@@ -1,4 +1,4 @@
-COVID-19 Impact Lab
+CoViD-19 Impact Lab
 ===================
 
 Our goal is to analyse the effect of the current crisis and countermeasures on people's
@@ -7,7 +7,7 @@ contemporaneous data; we will communicate them as quickly as possible to the pub
 decision-makers. In the medium run, we will provide further in-depth analyses to be
 communicated in the usual scientific way.
 
-COVID-19 impact lab was initiated by a group of economists at Bonn, who are passionate
+CoViD-19 Impact Lab was initiated by a group of economists at Bonn, who are passionate
 about writing robust code to analyse data in a multitude of fashions. While our research
 projects usually take months or years to materialize, the situation in March 2020
 prompted us to combine efforts in order to speed things up. We are eager to further
@@ -27,7 +27,7 @@ information on the following pages.
 
 
 Supported by
-============
+------------
 
 .. raw:: html
 

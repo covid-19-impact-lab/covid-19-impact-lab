@@ -3,7 +3,7 @@ Tech Support and Help
 =====================
 
 
-We have a Zulip channel for tech-support related to COVID-19 Impact Lab projects. We do not only want to help you to debug your code once it is too late, but can give you some recommendations on how to tackle a project even before you start. For example, which packages to use, how to structure your project and which blogposts to read. Maybe we even find a collaborator for your project or already have code that does what you wanted to implement.
+We have a Zulip channel for tech-support related to CoViD-19 Impact Lab projects. We do not only want to help you to debug your code once it is too late, but can give you some recommendations on how to tackle a project even before you start. For example, which packages to use, how to structure your project and which blogposts to read. Maybe we even find a collaborator for your project or already have code that does what you wanted to implement.
 
 Below we describe the different sub-channels and how you should ask your questions such that we can help you efficiently.
 
@@ -96,5 +96,3 @@ Describe the problem as precisely as possible:
 - What is the exact problem (error messages during installation, failing tests after installation, installation works but import fails, ...)
 
 We will than try to find someone who managed to install this package on the same operating system and get back to you.
-
-

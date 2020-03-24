@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "COVID-19 Impact Lab"
-copyright = "2020, COVID-19 Impact Lab Team"
-author = "COVID-19 Impact Lab Team"
+project = "CoViD-19 Impact Lab"
+copyright = "2020, CoViD-19 Impact Lab Team"
+author = "CoViD-19 Impact Lab Team"
 
 
 # -- General configuration ---------------------------------------------------
