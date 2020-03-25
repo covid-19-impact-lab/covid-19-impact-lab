@@ -31,7 +31,10 @@ Questionnaire Design
 Data preparation
 ****************
 
-too many for me to enumerate, I would not even know... So better not even get started!
+* Luis Calderon
+* Moritz Mendel
+* Klara Röhrl
+* Christian Zimpelmann
 
 
 Risk perceptions and policies regarding the spread of the disease
@@ -82,13 +85,18 @@ Social Media Sentiment Analysis
 ===============================
 
 * Janos Gabler
+* Annica Gehlen
 * Jan Knuf
 * Tim Mensinger
+* Janos Meny
+* Tobias Raabe
+
 
 Coding and Visualisation Wizards
 ================================
 
 * Janos Gabler
-* Christian Hilscher
+* Christian Hilscher (University of Mannheim)
 * Tobias Raabe
 * Klara Röhrl
+* Annica Gehlen
