@@ -31,7 +31,7 @@ Questionnaire Design
 Data preparation
 ****************
 
-* Luis Calderon
+* Luis Calderón
 * Moritz Mendel
 * Klara Röhrl
 * Christian Zimpelmann
@@ -52,20 +52,22 @@ Mental health and biggest worries in the immediate future
 *********************************************************
 
 * Moritz Mendel
+* Michaela Paffenholz (Mannheim)
 * Bettina Siflinger (Tilburg)
 
 Changes in the work and childcare situation since the onset of the crisis
 *************************************************************************
 
+* Radost Holler
 * Lena Janys
 * Bettina Siflinger (Tilburg)
-* Radost Holler
 * Christian Zimpelmann (IZA)
 
 Intended behaviour and expectations
 ***********************************
 
 * Maria Balgova (IZA)
+* Suzanne Bellue (Mannheim)
 * Hans-Martin von Gaudecker
 * Ingo Isphording (IZA)
 * Jürgen Maurer (Lausanne)
@@ -77,8 +79,8 @@ GESIS data
 ==========
 
 * Radost Holler
-* Rafael Suchy
 * Ingo Isphording (IZA)
+* Rafael Suchy
 * ...
 
 Social Media Sentiment Analysis
@@ -96,7 +98,13 @@ Coding and Visualisation Wizards
 ================================
 
 * Janos Gabler
+* Annica Gehlen
 * Christian Hilscher (University of Mannheim)
 * Tobias Raabe
 * Klara Röhrl
+
+
+Community Manager
+=================
+
 * Annica Gehlen
