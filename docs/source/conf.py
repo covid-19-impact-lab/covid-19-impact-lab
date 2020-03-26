@@ -46,8 +46,20 @@ exclude_patterns = []
 # a list of builtin themes.
 html_theme_path = ["_themes", ]
 html_theme = "yummy_sphinx_theme"
-
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ["_static"]
+
+
+html_theme_options = {
+    'navs': {
+        'GitHub': 'https://github.com/covid-19-impact-lab'
+    },
+    'service': 'GitHub',
+    'user': 'covid-19-impact-lab',
+    'repo': 'covid-19-impact-lab',
+    'navbar_icon': 'spin fa-book',
+}
+
+html_logo = '_static/images/ose_logo.ico'

@@ -123,7 +123,7 @@ a{
 	background-color:transparent
 }
 a:hover{
-	color:#0056b3;
+	color:	#c87259;
 	text-decoration:underline
 }
 a:not([href]):not([tabindex]),a:not([href]):not([tabindex]):focus,a:not([href]):not([tabindex]):hover{
@@ -2179,7 +2179,7 @@ a.btn.disabled,fieldset:disabled a.btn{
 	text-decoration:none
 }
 .btn-link:hover{
-	color:#0056b3;
+	color:#b3563b;
 	text-decoration:underline
 }
 .btn-link.focus,.btn-link:focus{
@@ -3311,7 +3311,7 @@ input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-
 }
 .navbar-light .navbar-toggler-icon{
 	background-image:url("data:image/svg+xml;
-	charset=utf-8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0,0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
+	charset=utf-8,%3Csvg viewBox='0 0 0 0' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0,0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
 }
 .navbar-light .navbar-text{
 	color:rgba(0,0,0,.5)
@@ -3340,7 +3340,7 @@ input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-
 }
 .navbar-dark .navbar-toggler-icon{
 	background-image:url("data:image/svg+xml;
-	charset=utf-8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
+	charset=utf-8,%3Csvg viewBox='0 0 0 0' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255,0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E")
 }
 .navbar-dark .navbar-text{
 	color:hsla(0,0%,100%,.5)
@@ -3585,7 +3585,7 @@ input[type=button].btn-block,input[type=reset].btn-block,input[type=submit].btn-
 }
 .page-link:hover{
 	z-index:2;
-	color:#0056b3;
+	color:#c87259;
 	text-decoration:none;
 	background-color:#e9ecef;
 	border-color:#dee2e6
@@ -7448,7 +7448,7 @@ a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover{
 	color:#007bff!important
 }
 a.text-primary:focus,a.text-primary:hover{
-	color:#0056b3!important
+	color:#c87259!important
 }
 .text-secondary{
 	color:#6c757d!important
