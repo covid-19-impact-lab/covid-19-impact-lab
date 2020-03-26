@@ -20,10 +20,10 @@ information on the following pages.
 
    goals
    datasets
-   tasks
    onboarding
    tech_support
    coding_guidelines
+   about_us
 
 
 Supported by
