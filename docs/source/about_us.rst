@@ -1,14 +1,14 @@
 About us
 --------
 
-Started in mid-March 2020 by a group of economists at Bonn who are passionate about writing robust code to analyse interesting economic questions, our group comprises ...
+Started in mid-March 2020 by a group of economists at Bonn who are passionate about writing robust code to analyse interesting economic questions, our group consists of researchers and students from several institutions like the University of Mannheim, the University of Lausanne, Tilburg University,  and the Institute of Labor Economics (IZA).
 
 Here is a picture from a typical lab meeting:
 
 .. image:: _static/images/team_meeting.jpg
    :width: 600
 
-Distributed the workload across several teams... Unless otherwise noted, contributors are affiliated with the Economics Department at the University of Bonn, whether as students or as faculty.
+We distribute the workload across several teams. Unless otherwise noted, contributors are affiliated with the Economics Department at the University of Bonn, whether as students or as faculty.
 
 LISS data
 =========
@@ -35,6 +35,7 @@ Data preparation
 * Moritz Mendel
 * Klara Röhrl
 * Christian Zimpelmann
+* Maximilian Blesch
 
 
 Risk perceptions and policies regarding the spread of the disease
@@ -99,7 +100,7 @@ Coding and Visualisation Wizards
 
 * Janos Gabler
 * Annica Gehlen
-* Christian Hilscher (University of Mannheim)
+* Christian Hilscher (Mannheim)
 * Tobias Raabe
 * Klara Röhrl
 
