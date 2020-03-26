@@ -1,7 +1,7 @@
 About us
 --------
 
-Started in mid-March 2020 by a group of economists at Bonn who are passionate about writing robust code to analyse interesting economic questions, our group consists of researchers and students from several institutions like the University of Mannheim, the University of Lausanne, Tilburg University,  and the Institute of Labor Economics (IZA).
+CoViD-19 Impact Lab was started in mid-March 2020 by a group of economists at Bonn who are passionate about writing robust code to analyse interesting economic questions. Our group now consists of students and more senior researchers from several institutions like the University of Mannheim, the University of Lausanne, Tilburg University, and the Institute of Labor Economics (IZA).
 
 Here is a picture from a typical lab meeting:
 
@@ -9,6 +9,14 @@ Here is a picture from a typical lab meeting:
    :width: 600
 
 We distribute the workload across several teams. Unless otherwise noted, contributors are affiliated with the Economics Department at the University of Bonn, whether as students or as faculty.
+
+
+
+Community Manager
+=================
+
+* `Annica Gehlen <mailto:covid-19-impact-lab@outlook.com>`__
+
 
 LISS data
 =========
@@ -31,6 +39,7 @@ Questionnaire Design
 Data preparation
 ****************
 
+* Suzanne Bellue
 * Luis Calderón
 * Moritz Mendel
 * Klara Röhrl
@@ -82,7 +91,6 @@ GESIS data
 * Radost Holler
 * Ingo Isphording (IZA)
 * Rafael Suchy
-* ...
 
 Social Media Sentiment Analysis
 ===============================
@@ -105,7 +113,8 @@ Coding and Visualisation Wizards
 * Klara Röhrl
 
 
-Community Manager
-=================
+Documentation of Policies and States of the Pandemic
+====================================================
 
-* Annica Gehlen
+* Mark Spils (Mannheim)
+* Marc Lipfert
