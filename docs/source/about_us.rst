@@ -53,7 +53,6 @@ Risk perceptions and policies regarding the spread of the disease
 * Luis Calderón
 * Janos Gabler
 * Hans-Martin von Gaudecker
-* Simon Heiler
 * Jürgen Maurer (Lausanne)
 * Moritz Mendel
 * Klara Röhrl
@@ -79,7 +78,9 @@ Intended behaviour and expectations
 * Maria Balgova (IZA)
 * Suzanne Bellue (Mannheim)
 * Hans-Martin von Gaudecker
+* Simon Heiler
 * Ingo Isphording (IZA)
+* Keith Kuester
 * Jürgen Maurer (Lausanne)
 * Moritz Mendel
 * Christian Zimpelmann (IZA)
