@@ -37,4 +37,16 @@ information [here](https://covid-19-impact-lab.readthedocs.io)
   </a>
   &emsp;
 
+  <a href="https://selten.institute/econtribute">
+     <img src="docs/source/_static/images/econtribute_logo.jpg" width="150"
+     alt="ECONtribute">
+  </a>
+  &emsp;
+
+  <a href="https://www.crctr224.de/en">
+     <img src="docs/source/_static/images/crc_tr_224_logo.png" width="150"
+     alt="Collaborative Research Center Transregio 224">
+  </a>
+  &emsp;
+
 </p>
