@@ -62,6 +62,7 @@ Mental health and biggest worries in the immediate future
 
 * Moritz Mendel
 * Michaela Paffenholz (Mannheim)
+* Sebastian Seitz (Mannheim)
 * Bettina Siflinger (Tilburg)
 
 Changes in the work and childcare situation since the onset of the crisis
