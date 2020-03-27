@@ -21,27 +21,27 @@ The LISS Panel
 
 The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
 
-The LISS includes a questionnaire on the CoViD-19 epidemic between 2020-03-20 and 2020-03-31, which has been designed by our team.
+So far, the following questionnaires on the CoViD-19 epidemic have been fielded in the LISS panel:
 
-.. The questionnaire covered:
-..
-.. - beliefs about the extent of the epidemic, ways to fight it and its consequences
-.. - behavioral changes in response to the epidemic and policy measures
-.. - support for policy measures on social distancing, both as implemented and hypothetical
-.. - qualifications and willingness to support the health care system
-.. -
+* 2-19 March 2020: A very early set of questions on risks of infection, illness, and being quarantined, designed by `Peter van de Velden <https://www.centerdata.nl/en/about-us/peter-van-der-velden>`__. `Questionnaire in English and Dutch <_static/Corona-virus-LISS-panel-early-March-2019.pdf>`__.
 
-The contents of questionnaire are available for download here:
+* 20-31 March 2020: A 15-minute questionnaire on a variety of topics:
 
-* :download:`Dutch original <_static/LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`.
-* :download:`English translation (preliminary) <_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`.
+  * Perceptions and behaviour regarding the medical risks associated with the coronavirus.
+  * Assessments of various social distancing policies' effectiveness, support for and  compliance with these policies.
+  * Changes in the work and childcare situation since the onset of the crisis.
+  * Intentions and expectations regarding consumption/savings decisions, workplace  security, and the effectiveness of fiscal policy measures.
+  * Mental health and a list of the biggest worries for the next four weeks.
+  * Trust in the government and assessments on whether the government is taking too few or too many measures in various dimensions.
+
+  Designed by our team, `(preliminary) English translation <_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`__, `Dutch original <_static/LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`__.
 
 
 Understanding America Survey
 =============================
 
 The `Understanding America Survey  <https://uasdata.usc.edu/>`_ included a questionnaire between 2020-03-10 and 2020-03-16 with over 5000 observations.
-Information on the questionnaire can be found `here <https://uasdata.usc.edu/page/COVID-19+Corona+Virus>`__.
+Information on the questionnaire can be found `here <https://uasdata.usc.edu/page/COVID-19+Corona+Virus>`__. Certainly more to come.
 
 
 .. GESIS
@@ -71,7 +71,7 @@ More information can be found `here <http://dx.doi.org/10.23668/psycharchives.27
 International Survey on Coronavirus
 ===================================
 
-https://covid19-survey.org/ — large-scale international study; anybody can participate, invitations via social media. In the field since 20 March, status as of 21 March: "Anonymized data will be made available for non-commercial research use. More details will follow soon."
+https://covid19-survey.org/ — large-scale international study; anybody can participate, invitations via social media. In the field since 20 March. `English Questionnaire <https://osf.io/3sn2k/>`__.
 
 
 --------------------------

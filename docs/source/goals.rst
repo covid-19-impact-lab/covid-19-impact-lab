@@ -2,7 +2,7 @@
 Goals
 =====
 
-Initiated by economists based at the `University of Bonn <https://econ.uni-bonn.de>`_ and the `OpenSourceEconomics <https://github.com/OpenSourceEconomics>`_ initiative, the CoViD-19 Impact Lab institutes a collective effort to provide data-driven insights into the socio-economic impacts of the 2020 CoViD-19 pandemic by pooling economic and technological expertise.
+Initiated by economists based at the `University of Bonn <https://www.econ.uni-bonn.de>`_ and the `OpenSourceEconomics <https://github.com/OpenSourceEconomics>`_ initiative, the CoViD-19 Impact Lab institutes a collective effort to provide data-driven insights into the socio-economic impacts of the 2020 CoViD-19 pandemic by pooling economic and technological expertise.
 
 Our main goals are:
 -------------------
