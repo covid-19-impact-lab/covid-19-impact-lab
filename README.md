@@ -21,32 +21,35 @@ information [here](https://covid-19-impact-lab.readthedocs.io)
 <p align="center">
 
   <a href="https://www.econ.uni-bonn.de">
-     <img src="docs/source/_static/images/uni_bonn_logo.png" width="150"
+     <img src="_static/images/uni_bonn_logo.png" width="150"
      alt="Universität Bonn">
   </a>
   &emsp;
 
+  <a href="https://selten.institute/econtribute">
+     <img src="_static/images/econtribute_logo.png" width="150" alt="ECONtribute">
+  </a>
+  &emsp;
+
+  <a href="https://www.crctr224.de/en">
+     <img src="_static/images/crc_tr_224_logo.png" width="150"
+     alt="Collaborative Research Center Transregio 224">
+  </a>
+  &emsp;
+
+  <br>
+  <br>
+
   <a href="https://github.com/OpenSourceEconomics">
-     <img src="docs/source/_static/images/ose_logo.jpg" width="150"
+     <img src="_static/images/ose_logo.jpg" width="150"
      alt="Open Source Economics">
   </a>
   &emsp;
 
   <a href="https://www.iza.org">
-     <img src="docs/source/_static/images/iza_logo.jpg" width="150" alt="IZA">
+     <img src="_static/images/iza_logo.jpg" width="150" alt="IZA">
   </a>
   &emsp;
 
-  <a href="https://selten.institute/econtribute">
-     <img src="docs/source/_static/images/econtribute_logo.jpg" width="150"
-     alt="ECONtribute">
-  </a>
-  &emsp;
-
-  <a href="https://www.crctr224.de/en">
-     <img src="docs/source/_static/images/crc_tr_224_logo.png" width="150"
-     alt="Collaborative Research Center Transregio 224">
-  </a>
-  &emsp;
 
 </p>
