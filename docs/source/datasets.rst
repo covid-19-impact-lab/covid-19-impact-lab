@@ -47,7 +47,7 @@ Information on the questionnaire can be found `here <https://uasdata.usc.edu/pag
 GESIS Panel
 ===========
 
-The GESIS Panel is a survey administered by the Leibniz Institute of the Social Sciences in Mannheim, Germany. As of 2019, the panel comrises 5400 individuals. The survey is administered every two months. Surveys consist of a `longitudinal core study <https://www.gesis.org/en/gesis-panel/gesis-panel-home/longitudinal-core-study>`_ and additional submitted studies.
+The GESIS Panel is a survey administered by the Leibniz Institute of the Social Sciences in Mannheim, Germany. As of 2019, the panel comprises 5400 individuals. The survey is administered every two months. Surveys consist of a `longitudinal core study <https://www.gesis.org/en/gesis-panel/gesis-panel-home/longitudinal-core-study>`_ and additional submitted studies.
 
 In late March 2020, the GESIS Panel conduced a Special Survey on the Coronavirus SARS-CoV 2 Outbreak in Germany. More information can be found `here <https://www.gesis.org/gesis-panel/coronavirus-outbreak/public-use-file-puf>`_.
 
