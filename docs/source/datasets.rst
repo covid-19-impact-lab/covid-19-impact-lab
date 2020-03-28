@@ -44,21 +44,12 @@ The `Understanding America Survey  <https://uasdata.usc.edu/>`_ included a quest
 Information on the questionnaire can be found `here <https://uasdata.usc.edu/page/COVID-19+Corona+Virus>`__. Certainly more to come.
 
 
-.. GESIS
-.. =====
+GESIS Panel
+===========
 
-.. They have not posted anything on their website (as of March 20th)
+The GESIS Panel is a survey administered by the Leibniz Institute of the Social Sciences in Mannheim, Germany. As of 2019, the panel comrises 5400 individuals. The survey is administered every two months. Surveys consist of a `longitudinal core study <https://www.gesis.org/en/gesis-panel/gesis-panel-home/longitudinal-core-study>`_ and additional submitted studies.
 
-.. - what's in there
-.. - size
-.. - how to get it
-.. - what we use it for
-
-
-.. SOEP
-.. ====
-
-.. No information on their website as of March 20th.
+In late March 2020, the GESIS Panel conduced a Special Survey on the Coronavirus SARS-CoV 2 Outbreak in Germany. More information can be found `here <https://www.gesis.org/gesis-panel/coronavirus-outbreak/public-use-file-puf>`_.
 
 
 Germany CoViD-19 Snapshot Monitoring
@@ -73,7 +64,6 @@ International Survey on Coronavirus
 
 https://covid19-survey.org/ — large-scale international study; anybody can participate, invitations via social media. In the field since 20 March. `English Questionnaire <https://osf.io/3sn2k/>`__.
 
-
 --------------------------
 Epidemiological Datasets
 --------------------------
@@ -81,7 +71,7 @@ Epidemiological Datasets
 Country Time Series of Confirmed Cases and Deaths
 ==================================================
 
-The John Hopkins University Center for Systems Science and Engineering provides time series at the country level on this `github repository <https://github.com/CSSEGISandData/COVID-19>`__. Data is updated daily and available as .csv files.
+The John Hopkins University Center for Systems Science and Engineering provides time series at the country level on this `GitHub repository <https://github.com/CSSEGISandData/COVID-19>`__. Data is updated daily and available as .csv files.
 
 Another `source <https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide>`_ for such data is the European Centre for Disease Prevention and Control.
 
@@ -99,13 +89,13 @@ For other countries we don't know of datasets that are maintained at the regiona
 MIDAS Epidemiologic Model Estimates
 =====================================
 
-The MIDAS Coordination Center collects mostly peer-reviewed estimates for parameters central to modelling CoViD-19 epidemiologically. The data can be found on this `github repository <https://github.com/midas-network/COVID-19>`__.
+The MIDAS Coordination Center collects mostly peer-reviewed estimates for parameters central to modelling CoViD-19 epidemiologically. The data can be found on `this <https://github.com/midas-network/COVID-19>`_ GitHub repository.
 
 
 Transmission Data Using Genom Sequencing
 =========================================
 
-The `Nextstrain <https://nextstrain.org/ncov>`_ project's data on the transmission and strains of the novel coronavirus is available on this`github repository <https://github.com/nextstrain/ncov>`_.
+The `Nextstrain <https://nextstrain.org/ncov>`_ project's data on the transmission and strains of the novel coronavirus is available on `GitHub <https://github.com/nextstrain/ncov>`_.
 
 
 .. Scrapped Datasets
