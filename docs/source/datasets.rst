@@ -34,7 +34,7 @@ So far, the following questionnaires on the CoViD-19 epidemic have been fielded 
   * Mental health and a list of the biggest worries for the next four weeks.
   * Trust in the government and assessments on whether the government is taking too few or too many measures in various dimensions.
 
-  Designed by our team, `(preliminary) English translation <_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`__, `Dutch original <_static/LISS_covid19_questionnaire_dutch_20200320_1.0.pdf>`__.
+  Designed by our team, `(preliminary) English translation <_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`__, `Dutch original <_static/Codeboek_L_CoronavirusImpact_Wave1_1.0.pdf>`__.
 
 
 Understanding America Survey
