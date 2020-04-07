@@ -26,6 +26,10 @@ information on the following pages.
    about_us
 
 
+**Note:** We are currently looking for **Dutch native speakers** to make our interactive `data exploration tool <https://covid-19-impact-lab.iza.org/app>`_ accessible to a Dutch audience. If you are interested, please check out :ref:`contribute` for more information!
+
+
+
 Supported by
 ------------
 

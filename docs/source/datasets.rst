@@ -27,20 +27,29 @@ have been interviewed regularly for over ten years on a large variety of topics.
 So far, the following questionnaires on the CoViD-19 epidemic have been fielded in the
 LISS panel:
 
-* 2-19 March 2020: A very early set of questions on risks of infection, illness, and being quarantined, designed by `Peter van der Velden <https://www.centerdata.nl/en/about-us/peter-van-der-velden>`__. `Questionnaire in English and Dutch <_static/Corona-virus-LISS-panel-early-March-2019.pdf>`__, `Paper on risk perceptions <https://www.medrxiv.org/content/10.1101/2020.04.01.20049957v1>`__ on the basis of this data by Peter van der Velden, Miquelle Marchand, Boukje Cuelenaere, and Marcel Das.
-* 20-31 March 2020: A 15-minute questionnaire on a variety of topics:
-  * Perceptions and behaviour regarding the medical risks associated with the
-  coronavirus.
-  * Assessments of various social distancing policies' effectiveness, support for and
-  compliance with these policies.
-  * Changes in the work and childcare situation since the onset of the crisis.
-  * Intentions and expectations regarding consumption/savings decisions, workplace
-  security, and the effectiveness of fiscal policy measures.
-  * Mental health and a list of the biggest worries for the next four weeks.
-  * Trust in the government and assessments on whether the government is taking too few
-  or too many measures in various dimensions.
+**2-19 March 2020**
 
-  Designed by our team, `(preliminary) English translation <_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`__, `Dutch original <_static/Codeboek_L_CoronavirusImpact_Wave1_1.0.pdf>`__.
+* A very early set of questions on risks of infection, illness, and being quarantined.
+* Designed by `Peter van der Velden <https://www.centerdata.nl/en/about-us/peter-van-der-velden>`__: `Questionnaire in English and Dutch <_static/Corona-virus-LISS-panel-early-March-2019.pdf>`__.
+* `Paper on risk perceptions <https://www.medrxiv.org/content/10.1101/2020.04.01.20049957v1>`__ on the basis of this data by Peter van der Velden, Miquelle Marchand, Boukje Cuelenaere, and Marcel Das.
+
+**20-31 March 2020**
+
+* A 15-minute questionnaire on a variety of topics:
+
+   * Perceptions and behaviour regarding the medical risks associated with the coronavirus.
+
+   * Assessments of various social distancing policies' effectiveness, support for and compliance with these policies.
+
+   * Changes in the work and childcare situation since the onset of the crisis.
+
+   * Intentions and expectations regarding consumption/savings decisions, workplace security, and the effectiveness of fiscal policy measures.
+
+   * Mental health and a list of the biggest worries for the next four weeks.
+
+   * Trust in the government and assessments on whether the government is taking too few or too many measures in various dimensions.
+
+* Designed by our team: `(preliminary) English translation <_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`__, `Dutch original <_static/Codeboek_L_CoronavirusImpact_Wave1_1.0.pdf>`__.
 
 
 Understanding America Survey
@@ -104,9 +113,10 @@ for such data is the European Centre for Disease Prevention and Control.
 At the regional level, we are aware of the following data sources:
 
 For Germany disaggregate data down to the "Landkreis" level can be queried from the
-Robert-Koch-Institut `here <https://survstat.rki.de/Content/Query/Create.aspx>`__. Note
+Robert-Koch-Institut (RKI) `here <https://survstat.rki.de/Content/Query/Create.aspx>`__. Note
 that the disaggregate cases do not add up to the numbers at the state and country level
-but only cover approximately 50 percent of cases.
+but only cover approximately 50 percent of cases. Another way to access the data is the `NPGEO
+<https://npgeo-corona-npgeo-de.hub.arcgis.com/>`_ which provides the data from the RKI as well as other publicly available geographic data for Germany on topics like demographics, health, and transport. 
 
 For other countries we don't know of datasets that are maintained at the regional level.
 However, we are aware of a newssite following the cases at the state / region level for
