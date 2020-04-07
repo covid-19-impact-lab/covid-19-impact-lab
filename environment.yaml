@@ -30,7 +30,7 @@ dependencies:
     - black
     - blackcellmagic
     - pre-commit
-    - yummy_sphinx_theme
+
 
 
 
