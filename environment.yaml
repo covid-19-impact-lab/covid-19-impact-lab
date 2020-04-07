@@ -16,7 +16,7 @@ dependencies:
   - jupyterlab
   - nbsphinx
   - pdbpp
-  - sphinx
+  - sphinx=2.4.4
   - mock
   - nose
   - scikit-learn
