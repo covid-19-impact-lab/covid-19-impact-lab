@@ -13,7 +13,7 @@ projects usually take months or years to materialize, the situation in March 202
 prompted us to combine efforts in order to speed things up. We are eager to further
 increase our bandwidth for data analysis and communication. If you are interested to
 learn more about our goals and research or want to contribute you can find all necessary
-information [here](https://covid-19-impact-lab.readthedocs.io)
+information [here](https://covid-19-impact-lab.readthedocs.io).
 
 
 ## Supported by
@@ -53,3 +53,7 @@ information [here](https://covid-19-impact-lab.readthedocs.io)
 
 
 </p>
+
+---
+[![Documentation Status](https://readthedocs.org/projects/covid-19-impact-lab/badge/?version=latest)](https://covid-19-impact-lab.readthedocs.io/en/latest/?badge=latest)
+

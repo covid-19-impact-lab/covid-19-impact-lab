@@ -12,7 +12,7 @@ out there.
 
 As there are new studies being planned and being rolled out all the time, do not
 hesitate make us aware of any new data sources that are still missing on this page. To
-do so please contact `Klara Röhrl <https://github.com/roecla>`_ Email.
+do so please contact `Klara Röhrl <https://github.com/roecla>`_ via email.
 
 -------------------------
 Social Science Datasets
