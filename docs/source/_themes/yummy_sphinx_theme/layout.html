@@ -81,6 +81,11 @@
       {{ project }}
     </a>
     <nav class="site-header-nav" role="navigation">
+      {% if theme_twitter_url %}
+      <a href="{{ theme_twitter_url }}" target="_blank" aria-label="twitter account">
+        <i class="fab fa-twitter" title="{{ Twitter }}" aria-hidden="true"></i>
+      </a>
+      {% endif %}
       {% if theme_navs %}
       {% for name, link in theme_navs.items() %}
       <a href="{{ link }}" class="{% if pagename == name %} selected {% endif %} site-header-nav-item hvr-underline-from-center" target="_self" title="{{ name }}">

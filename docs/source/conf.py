@@ -59,7 +59,9 @@ html_theme_options = {
     'service': 'GitHub',
     'user': 'covid-19-impact-lab',
     'repo': 'covid-19-impact-lab',
-    'navbar_icon': 'spin fa-book',
+    'twitter_url': 'https://twitter.com/CovidImpactLab',
+    'google_tracking_id': 'UA-163101038-1'  
+
 }
 
 html_logo = '_static/images/ose_logo.ico'
