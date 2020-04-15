@@ -50,6 +50,7 @@ LISS panel:
    * Trust in the government and assessments on whether the government is taking too few or too many measures in various dimensions.
 
 * Designed by our team: `(preliminary) English translation <_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`__, `Dutch original <_static/Codeboek_L_CoronavirusImpact_Wave1_1.0.pdf>`__.
+* `Results on changes to total hours worked <_static/work-hours.pdf>`__.
 
 
 Understanding America Survey
@@ -116,7 +117,7 @@ For Germany disaggregate data down to the "Landkreis" level can be queried from 
 Robert-Koch-Institut (RKI) `here <https://survstat.rki.de/Content/Query/Create.aspx>`__. Note
 that the disaggregate cases do not add up to the numbers at the state and country level
 but only cover approximately 50 percent of cases. Another way to access the data is the `NPGEO
-<https://npgeo-corona-npgeo-de.hub.arcgis.com/>`_ which provides the data from the RKI as well as other publicly available geographic data for Germany on topics like demographics, health, and transport. 
+<https://npgeo-corona-npgeo-de.hub.arcgis.com/>`_ which provides the data from the RKI as well as other publicly available geographic data for Germany on topics like demographics, health, and transport.
 
 For other countries we don't know of datasets that are maintained at the regional level.
 However, we are aware of a newssite following the cases at the state / region level for
