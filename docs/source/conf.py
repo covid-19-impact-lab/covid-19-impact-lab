@@ -54,7 +54,8 @@ html_static_path = ["_static"]
 
 html_theme_options = {
     'navs': {
-        'GitHub': 'https://github.com/covid-19-impact-lab'
+        'GitHub': 'https://github.com/covid-19-impact-lab',
+	'Data Explorer': 'https://covid-19-impact-lab.iza.org/app'
     },
     'service': 'GitHub',
     'user': 'covid-19-impact-lab',

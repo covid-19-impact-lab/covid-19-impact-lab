@@ -1,29 +1,20 @@
 CoViD-19 Impact Lab
 ===================
 
-Our goal is to analyse the effect of the current crisis and countermeasures on people’s
-behaviour, fears, and beliefs. Our short-run goal is to generate helpful insights from
-contemporaneous data; we will communicate them as quickly as possible to the public and
-decision-makers. In the medium run, we will provide further in-depth analyses to be
-communicated in the usual scientific way.
+CoViD-19 and what it means for us personally, our loved ones, the economy and society in general is on everyone's mind. To give meaningful answers to these questions it is important to know what the population as a whole knows, believes and how people behave in response to the current pandemic. Our goal is to analyse the effects of the CoViD-19 crisis and countermeasures on people’s behaviour, fears, and beliefs. At short notice we aim to generate helpful insights from contemporaneous data and communicate them to decision-makers and the public. In the medium run, we will provide further in-depth analyses. `Our first survey <http://ftp.iza.org/dp13158.pdf>`_ reveals that low-income earners suffer most from the crisis  while high-paid workers benefit from the home office option. For further details `explore our data <https://covid-19-impact-lab.iza.org/en/app>`_.
 
-CoViD-19 Impact Lab was initiated by a group of economists at Bonn, who are passionate
-about writing robust code to analyse data in a multitude of fashions. While our research
-projects usually take months or years to materialize, the situation in March 2020
-prompted us to combine efforts in order to speed things up. We are eager to further
-increase our bandwidth for data analysis and communication. If you are interested to
-learn more about our goals and research or want to contribute you can find all necessary
-information on the following pages.
 
 .. toctree::
    :maxdepth: 1
 
+   Explore Data <https://covid-19-impact-lab.iza.org/app>
+   publications
    goals
    datasets
-   onboarding
+   contribute
    tech_support
    coding_guidelines
-   about_us
+   people
 
 
 **Note:** We are currently looking for **Dutch native speakers** to make our interactive `data exploration tool <https://covid-19-impact-lab.iza.org/app>`_ accessible to a Dutch audience. If you are interested, please check out :ref:`contribute` for more information!

@@ -1,4 +1,4 @@
-About us
+People
 --------
 
 CoViD-19 Impact Lab was started in mid-March 2020 by a group of economists at Bonn who are passionate about writing robust code to analyse interesting economic questions. Our group now consists of students and more senior researchers from several institutions like the University of Mannheim, the University of Lausanne, Tilburg University, and the Institute of Labor Economics (IZA).
@@ -103,6 +103,8 @@ Social Media Sentiment Analysis
 * Tim Mensinger
 * Janos Meny
 * Tobias Raabe
+* Vincent Selz
+* Omar Salah Ahmed
 
 
 Coding and Visualisation Wizards
