@@ -12,14 +12,13 @@ Report: Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Ev
 
 Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (2020). `Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations (No. 13158) <https://www.iza.org/publications/dp/13158/labour-supply-in-the-early-stages-of-the-covid-19-pandemic-empirical-evidence-on-hours-home-office-and-expectations>`_. Institute of Labor Economics (IZA).
 
-**Press Releases:** 
+**Press Releases:**
 
-- ECONribute. (2020, April 17). *Econtribute Studie – Coronavirus: Geringverdiener Sind Doppelte Verlierer Der Coronakrise*. [Press Release]. (`link <https://selten.institute/2020/04/17/econtribute-studie-coronavirus-geringverdiener-sind-doppelte-verlierer-der-coronakrise/>`_) (DE)
+- Institute of Labor Economics (IZA).(2020, April 17). *Low-income earners suffer most from the COVID-19 crisis - Having the option to work from home is largely a matter of education*. [Press Release]. (`link <https://newsroom.iza.org/en/archive/research/low-income-earners-suffer-most-from-the-covid-19-crisis/>`_) (*EN*)
 
-- Institute of Labor Economics (IZA).(2020, April 17). *Low-income earners suffer most from the COVID-19 crisis - Having the option to work from home is largely a matter of education*. [Press Release]. (`link <https://newsroom.iza.org/en/archive/research/low-income-earners-suffer-most-from-the-covid-19-crisis/>`_.) (EN)
+- ECONribute. (2020, April 17). *Econtribute Studie – Coronavirus: Geringverdiener Sind Doppelte Verlierer Der Coronakrise*. [Press Release]. (`link <https://selten.institute/2020/04/17/econtribute-studie-coronavirus-geringverdiener-sind-doppelte-verlierer-der-coronakrise/>`_) (*DE*)
 
-
-- Tilburg University. (2020, April 21). *Lage inkomens lijden het meest onder de coronacrisis* [Press Release].(`link <https://www.tilburguniversity.edu/nl/actueel/nieuws/meer-nieuws/lage-inkomens-lijden-het-meest-onder-de-coronacrisis>`_)(NL)
+- Tilburg University. (2020, April 21). *Lage inkomens lijden het meest onder de coronacrisis* [Press Release]. (`link <https://www.tilburguniversity.edu/nl/actueel/nieuws/meer-nieuws/lage-inkomens-lijden-het-meest-onder-de-coronacrisis>`_) (*NL*)
 
 **Abstract**
 
