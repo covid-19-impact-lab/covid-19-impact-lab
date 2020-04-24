@@ -14,7 +14,7 @@ Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (
 
 **Press Releases:**
 
-- Institute of Labor Economics (IZA).(2020, April 17). *Low-income earners suffer most from the COVID-19 crisis - Having the option to work from home is largely a matter of education*. [Press Release]. (`link <https://newsroom.iza.org/en/archive/research/low-income-earners-suffer-most-from-the-covid-19-crisis/>`_) (*EN*)
+- Institute of Labor Economics (IZA). (2020, April 17). *Low-income earners suffer most from the COVID-19 crisis - Having the option to work from home is largely a matter of education*. [Press Release]. (`link <https://newsroom.iza.org/en/archive/research/low-income-earners-suffer-most-from-the-covid-19-crisis/>`_) (*EN*)
 
 - ECONribute. (2020, April 17). *Econtribute Studie – Coronavirus: Geringverdiener Sind Doppelte Verlierer Der Coronakrise*. [Press Release]. (`link <https://selten.institute/2020/04/17/econtribute-studie-coronavirus-geringverdiener-sind-doppelte-verlierer-der-coronakrise/>`_) (*DE*)
 
