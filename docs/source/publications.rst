@@ -1,0 +1,11 @@
+.. _publications:
+
+============
+Publications
+============
+
+Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (2020). `Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations (No. 13158) <https://www.iza.org/publications/dp/13158/labour-supply-in-the-early-stages-of-the-covid-19-pandemic-empirical-evidence-on-hours-home-office-and-expectations>`_. Institute of Labor Economics (IZA).
+
+**Abstract**
+
+    Using a survey module administered in late March 2020, we analyze how working hours change under the social distancing regulations enacted to fight the CoViD-19 pandemic. We study the Netherlands, which are a prototypical Western European country, both in terms of its welfare system and its response to the pandemic. We show that total hours decline and more so for the self-employed and those with lower educational degrees. The education gradient appears because workers with a tertiary degree work a much higher number of hours from home. The strength of this effect is dampened by the government defining some workers to be essential for the working of the economy. Across sectors, we show that there are two clusters: One dominated by office-type occupations with high shares of academics, home-office hours, and low fractions of essential workers; and one where manual tasks and social interactions are prevalent with low shares of academics, home office hours, and often high shares of essential workers. Short-term expectations show that workers expect current patterns to prevail and that they expect a lot from government support schemes. In particular, many workers expect to keep their jobs in early June due to government support and the expected unemployment response is far lower than in the U.S. or the U.K.

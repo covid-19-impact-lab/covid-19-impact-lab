@@ -28,6 +28,9 @@ Have 10 minutes to spare? Then check out our `Tweet Labeling Game <http://web4.b
 
     <p align="center"><iframe src="https://giphy.com/embed/dBOMb0EkLCO9LrWbyU" width="240" height="233" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="http://web4.bonneconlab.uni-bonn.de/room/labeling_game/">Tweet Labeling Game</a></p>
 
+
+.. _dutchtranslators:
+
 Dutch Translators
 -------------------
 At the moment we are looking for **Dutch native speakers** who would like to help us with the translation of our `data exploration tool <https://covid-19-impact-lab.iza.org/app>`_ into Dutch.
