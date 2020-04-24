@@ -29,4 +29,4 @@ Blogposts and other Media
 
 - **Data Exploration Tool**: Explore What People Believe and Do in Response to CoViD-19 (`link <https://covid-19-impact-lab.iza.org/en/app>`_)
 
-- **Blogpost** by `Ingo Isphoring <https://www.iza.org/person/8625/ingo-e-isphording>`_ & `Maria Balgova: <https://www.iza.org/people/staff/28631/maria-balgova>`_ *Support for curfew depends on beliefs about others’ compliance - Young males are more likely to disobey* (`download <_static/blogpost_noncompliance.pdf>`__)
+- **Blogpost** by `Ingo Isphoring <https://www.iza.org/person/8625/ingo-e-isphording>`_ & `Maria Balgova <https://www.iza.org/people/staff/28631/maria-balgova>`_: *Support for curfew depends on beliefs about others’ compliance - Young males are more likely to disobey* (`download <_static/blogpost_noncompliance.pdf>`__)
