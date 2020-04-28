@@ -13,9 +13,15 @@ We distribute the workload across several teams. Unless otherwise noted, contrib
 
 
 Community Manager
-=================
+==================
 
 * `Annica Gehlen <mailto:covid-19-impact-lab@outlook.com>`__
+
+
+Color and Logo Design
+======================
+
+* `Svenja Raabe <https://www.linkedin.com/in/svenjaraabe/>`_
 
 
 LISS data

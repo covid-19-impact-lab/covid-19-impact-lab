@@ -65,4 +65,4 @@ html_theme_options = {
 
 }
 
-html_logo = '_static/images/ose_logo.ico'
+html_logo = '_static/images/impactlab_logo_simple.png'

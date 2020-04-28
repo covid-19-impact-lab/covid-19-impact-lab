@@ -59,5 +59,10 @@ Supported by
       </a>
       &emsp;
 
+      <a href="https://covid-19-impact-lab.readthedocs.io/en/latest/">
+         <img src="_static/images/impactlab_logo.png" width="150" alt="CoViD-19 Impact Lab">
+      </a>
+      &emsp;
+
 
     </p>
