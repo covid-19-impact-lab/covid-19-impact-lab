@@ -24,6 +24,18 @@ Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (
 
     Using a survey module administered in late March 2020, we analyze how working hours change under the social distancing regulations enacted to fight the CoViD-19 pandemic. We study the Netherlands, which are a prototypical Western European country, both in terms of its welfare system and its response to the pandemic. We show that total hours decline and more so for the self-employed and those with lower educational degrees. The education gradient appears because workers with a tertiary degree work a much higher number of hours from home. The strength of this effect is dampened by the government defining some workers to be essential for the working of the economy. Across sectors, we show that there are two clusters: One dominated by office-type occupations with high shares of academics, home-office hours, and low fractions of essential workers; and one where manual tasks and social interactions are prevalent with low shares of academics, home office hours, and often high shares of essential workers. Short-term expectations show that workers expect current patterns to prevail and that they expect a lot from government support schemes. In particular, many workers expect to keep their jobs in early June due to government support and the expected unemployment response is far lower than in the U.S. or the U.K.
 
+
+
+Report in Cooperation with `CPB <https://www.cpb.nl/>`_: Arbeidsmarkt: sterke daling gewerkte uren
+.....................................................................................................
+
+Jongen, E., Ebregt, J., Scheer, B., & Gaudecker, H. M. V.. (2020). `Arbeidsmarkt: sterke daling gewerkte uren <https://www.cpb.nl/sites/default/files/omnidownload/CPB-coronapublicatie-mei2020-Arbeidsmarkt-sterke-daling-gewerkte-uren.pdf>`_. CPB coronapublicatie.
+
+**Press Release:**
+
+-  Centraal Planbureau, CPB. (2020, May 14). *Historische daling gewerkte uren*. [Press Release]. (`link <https://www.cpb.nl/arbeidsmarkt-sterke-daling-gewerkte-uren#>`_) (*NL*)
+
+
 Blogposts and other Media
 ---------------------------
 
