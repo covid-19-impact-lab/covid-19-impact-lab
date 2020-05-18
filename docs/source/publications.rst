@@ -36,9 +36,13 @@ Jongen, E., Ebregt, J., Scheer, B., & Gaudecker, H. M. V.. (2020). `Arbeidsmarkt
 -  Centraal Planbureau, CPB. (2020, May 14). *Historische daling gewerkte uren*. [Press Release]. (`link <https://www.cpb.nl/arbeidsmarkt-sterke-daling-gewerkte-uren#>`_) (*NL*)
 
 
-Blogposts and other Media
----------------------------
+Blogposts, Articles, and other Media
+-------------------------------------
 
-- **Data Exploration Tool**: Explore What People Believe and Do in Response to CoViD-19 (`link <https://covid-19-impact-lab.iza.org/en/app>`_)
+- **Article** by `DNBulletin <https://www.dnb.nl/en/news/news-and-archive/index.jsp>`_: *Dutch consumers expect to be hit long-term by economic crisis due to coronavirus outbreak* (`link <https://www.dnb.nl/en/news/news-and-archive/dnbulletin-2020/dnb388698.jsp>`_) (*May 18, 2020*)
+ 	 
 
-- **Blogpost** by `Ingo Isphoring <https://www.iza.org/person/8625/ingo-e-isphording>`_ & `Maria Balgova <https://www.iza.org/people/staff/28631/maria-balgova>`_: *Support for curfew depends on beliefs about others’ compliance - Young males are more likely to disobey* (`download <_static/blogpost_noncompliance.pdf>`__)
+- **Blogpost** by `Ingo Isphoring <https://www.iza.org/person/8625/ingo-e-isphording>`_ & `Maria Balgova <https://www.iza.org/people/staff/28631/maria-balgova>`_: *Support for curfew depends on beliefs about others’ compliance - Young males are more likely to disobey* (`download <_static/blogpost_noncompliance.pdf>`__) (*April 2020*)
+
+- **Data Exploration Tool**: Explore What People Believe and Do in Response to CoViD-19 (`link <https://covid-19-impact-lab.iza.org/en/app>`_) (*April 2020*)
+
