@@ -4,7 +4,7 @@
 Datasets
 ========
 
-By now there are quite a few established panels as well as new studies studying the the impact CoViD-19. Here we list data that we are involved with collecting and/or intensively work with for our analyses.
+By now there are quite a few established panels as well as new studies studying the impact CoViD-19. Here we list data that we are involved with collecting and/or intensively work with for our analyses.
 
 
 The LISS Panel
@@ -12,7 +12,7 @@ The LISS Panel
 
 The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
 
-So far, the following questionnaires on the CoViD-19 pandemic have been fielded in the LISS panel:
+Below, we list questionnaires on the CoViD-19 pandemic that have been (or are scheduled to be) fielded in the LISS panel. Documentation to the questionnaires is made available `here <https://liss-questionnaires.readthedocs.io/en/latest/>`_.
 
 **2-19 March 2020**
 
@@ -20,11 +20,11 @@ So far, the following questionnaires on the CoViD-19 pandemic have been fielded 
 * Designed by `Peter van der Velden <https://www.centerdata.nl/en/about-us/peter-van-der-velden>`__: `Questionnaire in English and Dutch <_static/Corona-virus-LISS-panel-early-March-2019.pdf>`__.
 * `Paper on risk perceptions <https://www.medrxiv.org/content/10.1101/2020.04.01.20049957v1>`__ on the basis of this data by Peter van der Velden, Miquelle Marchand, Boukje Cuelenaere, and Marcel Das.
 
-**20-31 March 2020**
+**20-31 March 2020** (Wave 1 designed by CoViD-19 Impact Lab)
 
-* A 15-minute questionnaire on a variety of topics:
+* Topics:
 
-   * Perceptions and behaviour regarding the medical risks associated with the coronavirus.
+   * Perceptions and behavior regarding the medical risks associated with the coronavirus.
 
    * Assessments of various social distancing policies' effectiveness, support for and compliance with these policies.
 
@@ -36,8 +36,63 @@ So far, the following questionnaires on the CoViD-19 pandemic have been fielded 
 
    * Trust in the government and assessments on whether the government is taking too few or too many measures in various dimensions.
 
-* Designed by our team: `(preliminary) English translation <_static/LISS_covid19_questionnaire_english_20200320_1.0.pdf>`__, `Dutch original <_static/Codeboek_L_CoronavirusImpact_Wave1_1.0.pdf>`__.
-* `Results on changes to total hours worked <_static/work-hours.pdf>`__.
+* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-questionnaires.readthedocs.io/en/latest/wave-1/index.html>`_. 
+
+* Results from the questionnaire can be accessed here: :ref:`report_working_hours`
+
+**06-28 April 2020** (Wave 2 designed by CoViD-19 Impact Lab)
+
+* Topics:
+
+	* Recurring questions from wave 1 on employment, working hours, childcare, subjective risks, and concerns.
+
+	* Smoking, drinking, and drug intake in the past week.
+
+	* Social contacts during the pandemic compared to before and loneliness/ feelings pf emotional connectedness. 
+
+	* Income this year, expected income for the next three years, and investments in risky assets. 
+
+	* Expectations about economic growth, inflation, and unemployment in the Netherlands.
+
+* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-questionnaires.readthedocs.io/en/latest/wave-2/index.html>`_. 
+
+
+**21-28 April 2020** (Time Use and Consumption Questionnaire designed by CoViD-19 Impact Lab)
+
+* Topics:
+
+	* Organisation of childcare before and during the pandemic.
+
+	* Division of time during the week including work and free time.
+
+	* Type and amount of household expenses in the past month.
+
+
+**04-26 May 2020** (Wave 3 designed by CoViD-19 Impact Lab)
+
+* Topics:
+
+	* Recurring questions from previous waves on employment, working hours, subjective risks, (mental) health, concerns, and expected duration of restrictions.
+
+	* Application or participation in different government schemes for companies.
+
+	* Changes in employment for employees and changes in income for self-employed, implementability of working from home, and distancing rules in the workplace.
+
+	* Retirement plans and expectations about future employment and income security.
+
+	* Detailed questions about school-aged children in the household and how they spend their time during the pandemic compared to before. 
+
+
+* Questionnaire: `Dutch <_static/dutch-codebook-wave-3.pdf>`_ , `(preliminary) English translation <_static/peliminary-english-codebook-wave-3.pdf>`_.
+
+
+**Upcoming for June 2020** (Wave 4 designed by CoViD-19 Impact Lab)
+
+* Topics:
+	
+	* Recurring questions from previous waves on employment, working hours, subjective risks, (mental) health, concerns, and expected duration of restrictions.
+
+	* Questions about job searching behavior of individuals. 
 
 
 Understanding America Survey

@@ -7,8 +7,10 @@ Publications
 Reports
 --------
 
+.. _report_working_hours:
+
 Report: Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations
-....................................................................................................
+.........................................................................................................................................
 
 Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (2020). `Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations (No. 13158) <https://www.iza.org/publications/dp/13158/labour-supply-in-the-early-stages-of-the-covid-19-pandemic-empirical-evidence-on-hours-home-office-and-expectations>`_. Institute of Labor Economics (IZA).
 
