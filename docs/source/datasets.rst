@@ -12,7 +12,7 @@ The LISS Panel
 
 The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
 
-Below, we list questionnaires on the CoViD-19 pandemic that have been (or are scheduled to be) fielded in the LISS panel. Documentation to the questionnaires is made available `here <https://liss-questionnaires.readthedocs.io/en/latest/>`_.
+Below, we list questionnaires on the CoViD-19 pandemic that have been (or are scheduled to be) fielded in the LISS panel. Documentation to the questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-3/index.html>`_.
 
 **2-19 March 2020**
 
@@ -36,7 +36,7 @@ Below, we list questionnaires on the CoViD-19 pandemic that have been (or are sc
 
    * Trust in the government and assessments on whether the government is taking too few or too many measures in various dimensions.
 
-* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-questionnaires.readthedocs.io/en/latest/wave-1/index.html>`_. 
+* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-1/index.html>`_. 
 
 * Results from the questionnaire can be accessed here: :ref:`report_working_hours`
 
@@ -48,13 +48,13 @@ Below, we list questionnaires on the CoViD-19 pandemic that have been (or are sc
 
 	* Smoking, drinking, and drug intake in the past week.
 
-	* Social contacts during the pandemic compared to before and loneliness/ feelings pf emotional connectedness. 
+	* Social contacts during the pandemic compared to before and loneliness/ feelings pf emotional connectedness.
 
 	* Income this year, expected income for the next three years, and investments in risky assets. 
 
 	* Expectations about economic growth, inflation, and unemployment in the Netherlands.
 
-* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-questionnaires.readthedocs.io/en/latest/wave-2/index.html>`_. 
+* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-2/index.html>`_. 
 
 
 **21-28 April 2020** (Time Use and Consumption Questionnaire designed by CoViD-19 Impact Lab)
@@ -82,8 +82,7 @@ Below, we list questionnaires on the CoViD-19 pandemic that have been (or are sc
 
 	* Detailed questions about school-aged children in the household and how they spend their time during the pandemic compared to before. 
 
-
-* Questionnaire: `Dutch <_static/dutch-codebook-wave-3.pdf>`_ , `(preliminary) English translation <_static/peliminary-english-codebook-wave-3.pdf>`_.
+* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-3/index.html>`_.
 
 
 **Upcoming for June 2020** (Wave 4 designed by CoViD-19 Impact Lab)
