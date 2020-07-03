@@ -12,7 +12,7 @@ The LISS Panel
 
 The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
 
-Below, we list questionnaires on the CoViD-19 pandemic that have been (or are scheduled to be) fielded in the LISS panel. Documentation to the questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-3/index.html>`_.
+Below, we list questionnaires on the CoViD-19 pandemic that have been (or are scheduled to be) fielded in the LISS panel. Documentation to the questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/`_.
 
 **2-19 March 2020**
 
