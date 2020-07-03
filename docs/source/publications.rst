@@ -11,24 +11,35 @@ Publications and other Media
 
 This page shows published reports and other media related to CoViD-19 Impact Lab and the data listed under :ref:`data`.
 
-Reports
---------
+Reports & Research Articles
+-----------------------------
 
-Report in Cooperation with `CPB <https://www.cpb.nl/>`_: Arbeidsmarkt: sterke daling gewerkte uren
+Reports in Cooperation with `CPB <https://www.cpb.nl/>`_
 ............................................................................................................................
 
+1. Arbeidsmarkt: sterke daling gewerkte uren
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Jongen, E., Ebregt, J., Scheer, B., & Gaudecker, H. M. V.. (2020). `Arbeidsmarkt: sterke daling gewerkte uren <https://www.cpb.nl/sites/default/files/omnidownload/CPB-coronapublicatie-mei2020-Arbeidsmarkt-sterke-daling-gewerkte-uren.pdf>`_. CPB coronapublicatie.
 
 **Press Release:**
 
 -  Centraal Planbureau, CPB. (2020, May 14). *Historische daling gewerkte uren*. [Press Release]. (`link <https://www.cpb.nl/arbeidsmarkt-sterke-daling-gewerkte-uren#>`_) (*NL*)
 
+2. Arbeidsmarkt: Historische daling werkzame personen, maar internationaal gezien beperkt
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Jongen, E., Ebregt, J., Verstraten, P., & Siflinger, B. (2020). `Arbeidsmarkt: Historische daling werkzame personen, maar internationaal gezien beperkt <https://www.cpb.nl/sites/default/files/omnidownload/CPB-coronapublicatie-juni2020-Internationale-vergelijking-arbeidsmarkt.pdf>`_. CPB coronapublicatie.
+
+**Press Release:**
+
+-  Centraal Planbureau, CPB. (2020, June 12). *Historische daling aantal werkenden is internationaal gezien beperkt: samenhang met beleid*. [Press Release]. (`link <https://www.cpb.nl/internationale-vergelijking-arbeidsmarkt>`_) (*NL*)
 
 -------
 
 .. _report_working_hours:
 
-Report: Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations
+Research Article: Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations
 ....................................................................................................................................................
 
 Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (2020). `Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations (No. 13158) <https://www.iza.org/publications/dp/13158/labour-supply-in-the-early-stages-of-the-covid-19-pandemic-empirical-evidence-on-hours-home-office-and-expectations>`_. Institute of Labor Economics (IZA).
@@ -50,23 +61,18 @@ Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (
 
    </details>
 
-------
-
-.. _report_pre_outbreak:
-
-Research Article: Pre-outbreak determinants of perceived risks of corona infection and preventive measures taken. A prospective population-based study
-.............................................................................................................................................................................
-
-van der Velden, P.G., Marchand, M., Cuelenaere, B.,& Das, M. (2020). `Pre-outbreak determinants of perceived risks of corona infection and preventive measures taken. A prospective population-based study <https://doi.org/10.1371/journal.pone.0234600>`_. PLoS ONE. 15(7): e0234600.
 
 
 Blogposts, Articles, and other Media
 -------------------------------------
 
+- **Article** by `General-Anzeiger Bonn <https://www.general-anzeiger-bonn.de/>`_: *Forscher aus Bonn untersucht Wirtschaft unter Corona: Lockerheit und Lockdown in den Niederlanden* (`link <https://www.general-anzeiger-bonn.de/news/wissen-und-bildung/regional/corona-in-den-niederlanden-forscher-aus-bonn-untersucht-wirtschaft_aid-51958281>`_) (*July 1, 2020*) (*DE*)
+
 - **Article** by `DNBulletin <https://www.dnb.nl/en/news/news-and-archive/index.jsp>`_: *Dutch consumers expect to be hit long-term by economic crisis due to coronavirus outbreak* (`link <https://www.dnb.nl/en/news/news-and-archive/dnbulletin-2020/dnb388698.jsp>`_) (*May 18, 2020*)
  	 
 
 - **Blogpost** by `Ingo Isphoring <https://www.iza.org/person/8625/ingo-e-isphording>`_ & `Maria Balgova <https://www.iza.org/people/staff/28631/maria-balgova>`_: *Support for curfew depends on beliefs about others’ compliance - Young males are more likely to disobey* (`download <_static/blogpost_noncompliance.pdf>`__) (*April 2020*)
+
 
 - **Data Exploration Tool**: Explore What People Believe and Do in Response to CoViD-19 (`link <https://covid-19-impact-lab.iza.org/en/app>`_) (*April 2020*)
 

@@ -12,13 +12,13 @@ The LISS Panel
 
 The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
 
-Below, we list questionnaires on the CoViD-19 pandemic that have been (or are scheduled to be) fielded in the LISS panel. Documentation to the questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/`_.
+Below, we list questionnaires on the CoViD-19 pandemic that have been (or are scheduled to be) fielded in the LISS panel. Documentation to the questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`_.
 
 **2-19 March 2020**
 
 * A very early set of questions on risks of infection, illness, and being quarantined.
 * Designed by `Peter van der Velden <https://www.centerdata.nl/en/about-us/peter-van-der-velden>`__: `Questionnaire in English and Dutch <_static/Corona-virus-LISS-panel-early-March-2019.pdf>`__.
-* Results on the basis of this data by Peter van der Velden, Miquelle Marchand, Boukje Cuelenaere, and Marcel Das are linked under :ref:`report_pre_outbreak`.
+* Results on the basis of this data by Peter van der Velden, Miquelle Marchand, Boukje Cuelenaere, and Marcel Das are linked under `Pre-outbreak determinants of perceived risks of corona infection and preventive measures taken. A prospective population-based study <https://doi.org/10.1371/journal.pone.0234600>`_.
 
 **20-31 March 2020** (Wave 1 designed by CoViD-19 Impact Lab)
 
