@@ -1,5 +1,10 @@
 .. _publications:
 
+
+.. role::  raw-html(raw)
+    :format: html
+
+
 ============
 Publications
 ============
@@ -7,10 +12,51 @@ Publications
 Reports
 --------
 
+
+:raw-html:`&#10148;` Research Article: Pre-outbreak determinants of perceived risks of corona infection and preventive measures taken. A prospective population-based study
+.............................................................................................................................................................................
+
+van der Velden, P.G., Marchand, M., Cuelenaere B.,& Das, M. (2020). `Pre-outbreak determinants of perceived risks of corona infection and preventive measures taken. A prospective population-based study <https://doi.org/10.1371/journal.pone.0234600>`_. PLoS ONE. 15(7): e0234600.
+
+.. raw:: html
+
+   <details>
+   <summary><b><a>Abstract</a></b></summary>
+
+	<br><b>Objectives</b><br>
+
+	Assess how people perceive the risks of coronavirus infection, whether people take preventive measures, and which pre-outbreak factors contribute to the perceived risks and measures taken, such as pre-outbreak respiratory problems, heart problems, diabetes, anxiety and depression symptoms, loneliness, age, gender, marital and employment status and education level.<br><br>
+	
+	<b>Methods</b><br>
+
+	Data were collected in the longitudinal LISS panel, based on a random sample of the Dutch population. The coronavirus survey started on March 2, and the data collection ended on March 17 2020. Data were linked with surveys on health and social integration conducted at the end of 2019 (Nstudy sample = 3,540).<br><br>
+
+	<b>Results</b><br>
+
+	About 15% perceived the risk of infection as high, and 11% the risk becoming ill when infected. Multivariable logistic regression analyses showed the following. Older age-groups perceived the risk for coronavirus infection as lower (all adjusted Odd Ratio’s [aOR] ≤ .070). In total, 43.8% had taken preventive measures, especially females (aOR = 1.46, 95% CI = 1.26–1.70). Those with lower education levels less often used preventive measures (aOR = 0.55, 95% CI = 0.45–0.67). Those with pre-outbreak respiratory problems (aOR = 2.75, 95% CI = 2.11–3.57), heart problems (aOR = 1.97, 95% CI = 1.34–2.92) and diabetes (aOR = 3.12, 95% CI = 2.02–4.82) perceived the risk becoming ill when infected as higher than others. However, respondents with pre-outbreak respiratory problems and diabetes did not more often take preventive measures.<br><br>
+	
+	<b>Conclusions</b><br>
+
+	Vulnerable patients more often recognize that they are at risk becoming ill when infected by the coronavirus, but many do not take preventive measures. Interventions to stimulate the use of preventive measures should pay additional attention to physically vulnerable patients, males and those with lower education levels.<br><br>
+
+   </details>	 
+
+:raw-html:`&#10148;` Report in Cooperation with `CPB <https://www.cpb.nl/>`_: Arbeidsmarkt: sterke daling gewerkte uren
+............................................................................................................................
+
+Jongen, E., Ebregt, J., Scheer, B., & Gaudecker, H. M. V.. (2020). `Arbeidsmarkt: sterke daling gewerkte uren <https://www.cpb.nl/sites/default/files/omnidownload/CPB-coronapublicatie-mei2020-Arbeidsmarkt-sterke-daling-gewerkte-uren.pdf>`_. CPB coronapublicatie.
+
+**Press Release:**
+
+-  Centraal Planbureau, CPB. (2020, May 14). *Historische daling gewerkte uren*. [Press Release]. (`link <https://www.cpb.nl/arbeidsmarkt-sterke-daling-gewerkte-uren#>`_) (*NL*)
+
+
+
+
 .. _report_working_hours:
 
-Report: Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations
-.........................................................................................................................................
+:raw-html:`&#10148;` Report: Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations
+....................................................................................................................................................
 
 Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (2020). `Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations (No. 13158) <https://www.iza.org/publications/dp/13158/labour-supply-in-the-early-stages-of-the-covid-19-pandemic-empirical-evidence-on-hours-home-office-and-expectations>`_. Institute of Labor Economics (IZA).
 
@@ -22,21 +68,14 @@ Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (
 
 - Tilburg University. (2020, April 21). *Lage inkomens lijden het meest onder de coronacrisis* [Press Release]. (`link <https://www.tilburguniversity.edu/nl/actueel/nieuws/meer-nieuws/lage-inkomens-lijden-het-meest-onder-de-coronacrisis>`_) (*NL*)
 
-**Abstract**
+.. raw:: html
+
+   <details>
+   <summary><b><a>Abstract</a></b></summary>
 
     Using a survey module administered in late March 2020, we analyze how working hours change under the social distancing regulations enacted to fight the CoViD-19 pandemic. We study the Netherlands, which are a prototypical Western European country, both in terms of its welfare system and its response to the pandemic. We show that total hours decline and more so for the self-employed and those with lower educational degrees. The education gradient appears because workers with a tertiary degree work a much higher number of hours from home. The strength of this effect is dampened by the government defining some workers to be essential for the working of the economy. Across sectors, we show that there are two clusters: One dominated by office-type occupations with high shares of academics, home-office hours, and low fractions of essential workers; and one where manual tasks and social interactions are prevalent with low shares of academics, home office hours, and often high shares of essential workers. Short-term expectations show that workers expect current patterns to prevail and that they expect a lot from government support schemes. In particular, many workers expect to keep their jobs in early June due to government support and the expected unemployment response is far lower than in the U.S. or the U.K.
 
-
-
-Report in Cooperation with `CPB <https://www.cpb.nl/>`_: Arbeidsmarkt: sterke daling gewerkte uren
-.....................................................................................................
-
-Jongen, E., Ebregt, J., Scheer, B., & Gaudecker, H. M. V.. (2020). `Arbeidsmarkt: sterke daling gewerkte uren <https://www.cpb.nl/sites/default/files/omnidownload/CPB-coronapublicatie-mei2020-Arbeidsmarkt-sterke-daling-gewerkte-uren.pdf>`_. CPB coronapublicatie.
-
-**Press Release:**
-
--  Centraal Planbureau, CPB. (2020, May 14). *Historische daling gewerkte uren*. [Press Release]. (`link <https://www.cpb.nl/arbeidsmarkt-sterke-daling-gewerkte-uren#>`_) (*NL*)
-
+   </details>
 
 Blogposts, Articles, and other Media
 -------------------------------------
