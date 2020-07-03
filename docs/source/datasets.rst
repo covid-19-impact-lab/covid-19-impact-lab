@@ -18,7 +18,7 @@ Below, we list questionnaires on the CoViD-19 pandemic that have been (or are sc
 
 * A very early set of questions on risks of infection, illness, and being quarantined.
 * Designed by `Peter van der Velden <https://www.centerdata.nl/en/about-us/peter-van-der-velden>`__: `Questionnaire in English and Dutch <_static/Corona-virus-LISS-panel-early-March-2019.pdf>`__.
-* `Paper on risk perceptions <https://www.medrxiv.org/content/10.1101/2020.04.01.20049957v1>`__ on the basis of this data by Peter van der Velden, Miquelle Marchand, Boukje Cuelenaere, and Marcel Das.
+* Results on the basis of this data by Peter van der Velden, Miquelle Marchand, Boukje Cuelenaere, and Marcel Das are linked under :ref:`report_pre_outbreak`.
 
 **20-31 March 2020** (Wave 1 designed by CoViD-19 Impact Lab)
 
@@ -38,7 +38,7 @@ Below, we list questionnaires on the CoViD-19 pandemic that have been (or are sc
 
 * A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-1/index.html>`_. 
 
-* Results from the questionnaire can be accessed here: :ref:`report_working_hours`
+* Results from the questionnaire can be accessed here: :ref:`report_working_hours`.
 
 **06-28 April 2020** (Wave 2 designed by CoViD-19 Impact Lab)
 

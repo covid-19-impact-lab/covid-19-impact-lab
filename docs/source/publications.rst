@@ -5,43 +5,14 @@
     :format: html
 
 
-============
-Publications
-============
+=============================
+Publications and other Media
+=============================
+
+This page shows published reports and other media related to CoViD-19 Impact Lab and the data listed under :ref:`data`.
 
 Reports
 --------
-
-
-Research Article: Pre-outbreak determinants of perceived risks of corona infection and preventive measures taken. A prospective population-based study
-.............................................................................................................................................................................
-
-van der Velden, P.G., Marchand, M., Cuelenaere B.,& Das, M. (2020). `Pre-outbreak determinants of perceived risks of corona infection and preventive measures taken. A prospective population-based study <https://doi.org/10.1371/journal.pone.0234600>`_. PLoS ONE. 15(7): e0234600.
-
-.. raw:: html
-
-   <details>
-   <summary><b><a>Abstract</a></b></summary>
-
-	<br><b>Objectives</b><br>
-
-	Assess how people perceive the risks of coronavirus infection, whether people take preventive measures, and which pre-outbreak factors contribute to the perceived risks and measures taken, such as pre-outbreak respiratory problems, heart problems, diabetes, anxiety and depression symptoms, loneliness, age, gender, marital and employment status and education level.<br><br>
-	
-	<b>Methods</b><br>
-
-	Data were collected in the longitudinal LISS panel, based on a random sample of the Dutch population. The coronavirus survey started on March 2, and the data collection ended on March 17 2020. Data were linked with surveys on health and social integration conducted at the end of 2019 (Nstudy sample = 3,540).<br><br>
-
-	<b>Results</b><br>
-
-	About 15% perceived the risk of infection as high, and 11% the risk becoming ill when infected. Multivariable logistic regression analyses showed the following. Older age-groups perceived the risk for coronavirus infection as lower (all adjusted Odd Ratio’s [aOR] ≤ .070). In total, 43.8% had taken preventive measures, especially females (aOR = 1.46, 95% CI = 1.26–1.70). Those with lower education levels less often used preventive measures (aOR = 0.55, 95% CI = 0.45–0.67). Those with pre-outbreak respiratory problems (aOR = 2.75, 95% CI = 2.11–3.57), heart problems (aOR = 1.97, 95% CI = 1.34–2.92) and diabetes (aOR = 3.12, 95% CI = 2.02–4.82) perceived the risk becoming ill when infected as higher than others. However, respondents with pre-outbreak respiratory problems and diabetes did not more often take preventive measures.<br><br>
-	
-	<b>Conclusions</b><br>
-
-	Vulnerable patients more often recognize that they are at risk becoming ill when infected by the coronavirus, but many do not take preventive measures. Interventions to stimulate the use of preventive measures should pay additional attention to physically vulnerable patients, males and those with lower education levels.<br><br>
-
-   </details>	 
-
--------
 
 Report in Cooperation with `CPB <https://www.cpb.nl/>`_: Arbeidsmarkt: sterke daling gewerkte uren
 ............................................................................................................................
@@ -79,6 +50,14 @@ Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (
 
    </details>
 
+------
+
+.. _report_pre_outbreak:
+
+Research Article: Pre-outbreak determinants of perceived risks of corona infection and preventive measures taken. A prospective population-based study
+.............................................................................................................................................................................
+
+van der Velden, P.G., Marchand, M., Cuelenaere, B.,& Das, M. (2020). `Pre-outbreak determinants of perceived risks of corona infection and preventive measures taken. A prospective population-based study <https://doi.org/10.1371/journal.pone.0234600>`_. PLoS ONE. 15(7): e0234600.
 
 
 Blogposts, Articles, and other Media
