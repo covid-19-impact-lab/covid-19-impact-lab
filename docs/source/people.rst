@@ -24,8 +24,8 @@ Data collection and preparation
 * Bettina Siflinger (Tilburg)
 * Christian Zimpelmann
 
-Data analyses
-*************
+Modelling and data analyses
+***************************
 * Maria Balgova (IZA)
 * Janos Gabler
 * Hans-Martin von Gaudecker
