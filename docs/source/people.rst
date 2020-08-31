@@ -13,7 +13,7 @@ Community Manager
 *****************
 * `Annica Gehlen <mailto:covid-19-impact-lab@outlook.com>`__
 
-Data collection and preparation
+Data Collection and Preparation
 *******************************
 * Renata Abikeyeva
 * Felipe Azuero
@@ -24,7 +24,7 @@ Data collection and preparation
 * Bettina Siflinger (Tilburg)
 * Christian Zimpelmann
 
-Modelling and data analyses
+Modelling and Data Analyses
 ***************************
 * Maria Balgova (IZA)
 * Janos Gabler
@@ -43,7 +43,7 @@ Modelling and data analyses
 * Bettina Siflinger (Tilburg)
 * Christian Zimpelmann (IZA)
 
-Data visualisation
+Data Visualisation
 ******************
 * Sofia Badini
 * Janos Gabler
