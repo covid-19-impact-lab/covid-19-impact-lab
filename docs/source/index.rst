@@ -7,7 +7,7 @@ CoViD-19 and what it means for us personally, our loved ones, the economy, and s
 .. toctree::
    :maxdepth: 1
 
-   Explore Data <https://covid-19-impact-lab.iza.org/app>
+   Explore Data from March 2020 <https://covid-19-impact-lab.iza.org/app>
    publications
    goals
    datasets

@@ -52,7 +52,7 @@ Data Visualisation
 Former Contributors
 ===================
 
-* `Svenja Raabe <https://www.linkedin.com/in/svenjaraabe/>` (Color and Logo Design)
+* `Svenja Raabe <https://www.linkedin.com/in/svenjaraabe/>`_ (Color and Logo Design)
 
 * Maximilian Blesch
 * Suzanne Bellue

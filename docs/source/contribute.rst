@@ -20,13 +20,14 @@ We will then get back to you soon!
 Help Wanted
 ============
 
-German Speakers
------------------
-Have 10 minutes to spare? Then check out our `Tweet Labeling Game <http://web4.bonneconlab.uni-bonn.de/room/labeling_game/>`_ for a fun and easy way to support one of our projects, which aims to evaluate Twitter respones to CoViD-19 in Germany. Thank you for your help!
+..
+	German Speakers
+	-----------------
+	Have 10 minutes to spare? Then check out our `Tweet Labeling Game <http://web4.bonneconlab.uni-bonn.de/room/labeling_game/>`_ for a fun and easy way to support one of our projects, which aims to evaluate Twitter respones to CoViD-19 in Germany. Thank you for your help!
 
-.. raw:: html
+	.. raw:: html
 
-    <p align="center"><iframe src="https://giphy.com/embed/dBOMb0EkLCO9LrWbyU" width="240" height="233" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="http://web4.bonneconlab.uni-bonn.de/room/labeling_game/">Tweet Labeling Game</a></p>
+	    <p align="center"><iframe src="https://giphy.com/embed/dBOMb0EkLCO9LrWbyU" width="240" height="233" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p><p align="center"><a href="http://web4.bonneconlab.uni-bonn.de/room/labeling_game/">Tweet Labeling Game</a></p>
 
 
 .. _dutchtranslators:

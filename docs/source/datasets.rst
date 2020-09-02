@@ -85,13 +85,19 @@ Below, we list questionnaires on the CoViD-19 pandemic that have been (or are sc
 * A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-3/index.html>`_.
 
 
-**Upcoming for June 2020** (Wave 4 designed by CoViD-19 Impact Lab)
+**01-23 June** (Wave 4 designed by CoViD-19 Impact Lab)
 
 * Topics:
 	
-	* Recurring questions from previous waves on employment, working hours, subjective risks, (mental) health, concerns, and expected duration of restrictions.
+	* Recurring questions about opinions on subjective risks, employment status, income, mental health, social contacts, and childcare arrangements (new: pre-school children).
 
-	* Questions about job searching behavior of individuals. 
+	* Receival and spending of holiday pay.
+
+	* Job search activities and beliefs about labor market status, potential work opportunities.
+
+	* Activities and avoidance strategy in light of the pandemic.
+
+* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-4/index.html>`_.
 
 
 Understanding America Survey
@@ -111,5 +117,5 @@ SARS-CoV 2 Outbreak in Germany. More information can be found `here <https://www
 A tracker of trackers: COVID-19 policy responses and data
 ============================================================
 
-For a more extensive list of possible data sources than the ones listed here, see Lukas Lehner's `tracker of trackers <https://lukaslehner.github.io/covid19policytrackers/>`_. The site offers a comprehensive overview of many policy trackers and dataset focusing on the coronavirus pandemic.
+For a more extensive list of possible data sources than the ones listed here, see Lukas Lehner's `tracker of trackers <https://lukaslehner.github.io/covid19policytrackers/>`_. The site offers a comprehensive overview of many policy trackers and dataset focusing on the coronavirus pandemic. The tracker has since been updated and is now available as the `Oxford Supertracker <https://supertracker.spi.ox.ac.uk/>`_.
 
