@@ -1,4 +1,5 @@
-CoViD-19 Impact Lab ===================
+CoViD-19 Impact Lab 
+===================
 
 CoViD-19 Impact Lab was started in mid-March 2020 by a group of economists at
 Bonn and now consists of students and more senior researchers from several
@@ -18,27 +19,33 @@ analyses of mechanisms using microeconomic and microeconometric methods.
 
 Our first such paper reveals that the ability to work from home and essential
 worker status are key predictors of working hours reductions early in the
-crisis, but much less so in May and June. For further details `explore our
-data <https://covid-19-impact-lab.iza.org/en/app>`_. Current and future work
+crisis, but much less so in May and June. For further details `explore our 
+data <https://covid-19-impact-lab.iza.org/en/app>`__. Current and future work
 will be featured under :ref:`publications`.
 
 .. toctree:: :maxdepth: 1
 
    Explore Data from March 2020 <https://covid-19-impact-lab.iza.org/app>
-   publications goals datasets Questionnaire Documentation
-   <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>
-   contribute tech_support coding_guidelines people
-
-
-**Note:** We are currently looking for **Dutch native speakers** to make our
-**interactive `data exploration tool
-**<https://covid-19-impact-lab.iza.org/app>`_ accessible to a Dutch audience.
-**If you are interested, please check out or call for :ref:`dutchtranslators`
-**for more information!
+   publications 
+   goals 
+   datasets 
+   Questionnaire Documentation <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>
+   contribute 
+   tech_support 
+   coding_guidelines 
+   people
 
 
 
-Supported by ------------
+**Note:** We are currently looking for **Dutch native speakers** to make our 
+interactive `data exploration tool <https://covid-19-impact-lab.iza.org/app>`_ accessible 
+to a Dutch audience. If you are interested, please check out or call for :ref:`dutchtranslators` 
+for more information!
+
+
+
+Supported by 
+------------
 
 .. raw:: html
 
