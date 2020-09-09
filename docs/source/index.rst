@@ -19,9 +19,10 @@ analyses of mechanisms using microeconomic and microeconometric methods.
 
 Our first such paper reveals that the ability to work from home and essential
 worker status are key predictors of working hours reductions early in the
-crisis, but much less so in May and June. For further details `explore our 
-data <https://covid-19-impact-lab.iza.org/en/app>`__. Current and future work
-will be featured under :ref:`publications`.
+crisis, but much less so in May and June. Current and future work will be featured 
+under :ref:`publications`. For further details also `explore our 
+data <https://covid-19-impact-lab.iza.org/en/app>`_. The data explorer contains 
+survey results from March 2020 and will soon be updated to include more recent data.
 
 .. toctree:: :maxdepth: 1
 
