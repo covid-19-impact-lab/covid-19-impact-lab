@@ -32,6 +32,8 @@ Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (
    </details>
 
 
+-----
+
 Research Article (April 2020): Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations
 ....................................................................................................................................................
 
@@ -54,7 +56,7 @@ Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (
 
    </details>
 
-
+-----
 
 Reports in Cooperation with `CPB <https://www.cpb.nl/>`_
 ..........................................................
