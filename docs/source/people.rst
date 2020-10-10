@@ -11,7 +11,7 @@ Active Members
 
 Community Manager
 *****************
-* `Annica Gehlen <mailto:covid-19-impact-lab@outlook.com>`__
+* `Renata Abikeyeva <mailto:covid-19-impact-lab@outlook.com>`__
 
 Data Collection and Preparation
 *******************************
@@ -67,3 +67,4 @@ Former Contributors
 * Mark Spils (Mannheim)
 * Renske Stans
 * Rafael Suchy
+* Annica Gehlen
