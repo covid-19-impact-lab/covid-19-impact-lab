@@ -7,6 +7,15 @@ Datasets
 By now there are quite a few established panels as well as new studies studying the impact CoViD-19. Here we list data that we are involved with collecting and/or intensively work with for our analyses.
 
 
+The RKI ARS Data
+=================
+
+About 40% of laboratories in Germany report test results including several demographic characteristics such as gender, state and age group.
+However, this data is only published in the form of weekly pdf reports.
+For age groups we have converted this data to tabular data which can be downloaded `here <https://github.com/roecla/rki_ars_covid_test_data>`_.
+
+
+
 The LISS Panel
 ===============
 
@@ -36,7 +45,7 @@ Below, we list questionnaires on the CoViD-19 pandemic that have been (or are sc
 
    * Trust in the government and assessments on whether the government is taking too few or too many measures in various dimensions.
 
-* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-1/index.html>`_. 
+* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-1/index.html>`_.
 
 * Results from the questionnaire can be accessed here: :ref:`report_working_hours`.
 
@@ -50,11 +59,11 @@ Below, we list questionnaires on the CoViD-19 pandemic that have been (or are sc
 
 	* Social contacts during the pandemic compared to before and loneliness/ feelings pf emotional connectedness.
 
-	* Income this year, expected income for the next three years, and investments in risky assets. 
+	* Income this year, expected income for the next three years, and investments in risky assets.
 
 	* Expectations about economic growth, inflation, and unemployment in the Netherlands.
 
-* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-2/index.html>`_. 
+* A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-2/index.html>`_.
 
 
 **21-28 April 2020** (Time Use and Consumption Questionnaire designed by CoViD-19 Impact Lab)
@@ -80,7 +89,7 @@ Below, we list questionnaires on the CoViD-19 pandemic that have been (or are sc
 
 	* Retirement plans and expectations about future employment and income security.
 
-	* Detailed questions about school-aged children in the household and how they spend their time during the pandemic compared to before. 
+	* Detailed questions about school-aged children in the household and how they spend their time during the pandemic compared to before.
 
 * A detailed documentation of all questions and screenshots from the questionnaire are available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/wave-3/index.html>`_.
 
@@ -88,7 +97,7 @@ Below, we list questionnaires on the CoViD-19 pandemic that have been (or are sc
 **01-23 June** (Wave 4 designed by CoViD-19 Impact Lab)
 
 * Topics:
-	
+
 	* Recurring questions about opinions on subjective risks, employment status, income, mental health, social contacts, and childcare arrangements (new: pre-school children).
 
 	* Receival and spending of holiday pay.
@@ -103,7 +112,7 @@ Below, we list questionnaires on the CoViD-19 pandemic that have been (or are sc
 Understanding America Survey
 =============================
 
-The `Understanding America Study <https://uasdata.usc.edu/>`_ is conducting the `UAS Understanding Coronavirus in America (“Covid”) Survey <https://uasdata.usc.edu/index.php>`_, which includes a national bi-weekly long-form survey and a weekly Los Angeles County short-form survey. 
+The `Understanding America Study <https://uasdata.usc.edu/>`_ is conducting the `UAS Understanding Coronavirus in America (“Covid”) Survey <https://uasdata.usc.edu/index.php>`_, which includes a national bi-weekly long-form survey and a weekly Los Angeles County short-form survey.
 
 GESIS Panel
 ===========
