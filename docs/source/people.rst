@@ -20,7 +20,6 @@ Data Collection and Preparation
 * Hans-Martin von Gaudecker
 * Jürgen Maurer (Lausanne)
 * Moritz Mendel
-* Florens Pfann
 * Bettina Siflinger (Tilburg)
 * Christian Zimpelmann
 
@@ -68,3 +67,4 @@ Former Contributors
 * Renske Stans
 * Rafael Suchy
 * Annica Gehlen
+* Florens Pfann

@@ -16,6 +16,23 @@ Reports & Research Articles
 
 .. _report_working_hours:
 
+Research Article (March 2021): Job Search during a Pandemic Recession: Survey Evidence from the Netherlands
+.....................................................................................................................
+
+Balgova, M., Trenkle, S., Zimpelmann, C., Pestel, N. (2021). `Job Search during a Pandemic Recession: Survey Evidence from the Netherlands (No. 14180) <http://ftp.iza.org/dp14180.pdf>`_. Institute of Labor Economics (IZA).
+
+.. raw:: html
+
+   <details>
+   <summary><b><a>Abstract</a></b></summary>
+
+   This paper studies job search behavior in the midst of a pandemic recession. We use long-running panel data from the Netherlands (LISS) and complement the core survey with our own COVID-specific module, conducted in June 2020, surveying job search effort of employed as well as unemployed respondents. We estimate an empirical model of job search over the business cycle over the period 2008--2019 to explore the gap between predicted and actual job search behavior in 2020. We find that job search during the pandemic recession differs strongly from previous downturns. The unemployed search significantly less than what we would normally observe during a recession of this size, while the employed search mildly more. Expectations about the duration of the pandemic seem to play a key role in explaining job search effort for the unemployed in 2020. Furthermore, employed subjects affected by changes in employment status due to COVID-19 are more likely to search for a job. Conversely, beliefs about infection risk do not seem to be related to job search in a systematic way.
+
+   </details>
+
+
+-----
+
 
 Research Article (August 2020): Labour Supply during Lockdown and a "New Normal": The Case of the Netherlands
 .....................................................................................................................
@@ -81,7 +98,14 @@ Jongen, E., Ebregt, J., Verstraten, P., & Siflinger, B. (2020). `Arbeidsmarkt: H
 
 -------
 
+Thuiswerken vóór, tijdens en ná de coronacrisis
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+
+Jongen, E., Verstraten, P., & Zimpelmann, C. (2021). `Thuiswerken vóór, tijdens en ná de coronacrisis <https://www.cpb.nl/sites/default/files/omnidownload/CPB-Achtergronddocument-Thuiswerken-voor-tijdens-en-na-de-coronacrisis_1.pdf>`_.
+
+
+-------
 
 Blogposts, Articles, and other Media
 -------------------------------------

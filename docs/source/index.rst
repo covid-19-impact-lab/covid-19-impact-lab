@@ -14,13 +14,14 @@ the current pandemic. In order to gain insights, we are running a panel data
 collection in the Netherlands, thereby facilitating near-real-time monitoring
 of how people respond to the CoViD-19 crisis. On the one hand, we aim to
 quickly generate first insights from contemporaneous data and communicate them
-to decision-makers and the public. On the other hand, we will provide in-depth
+to decision-makers and the public. On the other hand, we will continue to provide in-depth
 analyses of mechanisms using microeconomic and microeconometric methods.
 
 Our first such paper reveals that the ability to work from home and essential
 worker status are key predictors of working hours reductions early in the
-crisis, but much less so in May and June. Current and future work will be featured 
-under :ref:`publications`. For further details also `explore our 
+crisis, but much less so when economic restrictions are lifted during the summer. We also show that household income in the Netherlands is much less affected than in other countries like the US or UK. Other papers examine job search and mental health during a pandemic recession. Current and future work will be featured under :ref:`publications`. 
+
+For further details also `explore our 
 data <https://covid-19-impact-lab.iza.org/en/app>`_. The data explorer contains 
 survey results from March 2020 and will soon be updated to include more recent data.
 
@@ -35,14 +36,6 @@ survey results from March 2020 and will soon be updated to include more recent d
    tech_support 
    coding_guidelines 
    people
-
-
-
-**Note:** We are currently looking for **Dutch native speakers** to make our 
-interactive `data exploration tool <https://covid-19-impact-lab.iza.org/app>`_ accessible 
-to a Dutch audience. If you are interested, please check out or call for :ref:`dutchtranslators` 
-for more information!
-
 
 
 Supported by 
