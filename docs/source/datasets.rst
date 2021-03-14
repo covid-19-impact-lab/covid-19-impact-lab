@@ -10,14 +10,12 @@ By now there are quite a few established panels as well as new studies studying 
 The LISS Panel
 ===============
 
-The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics.
+The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 households that have been interviewed regularly for over ten years on a large variety of topics. Below, we list a set of questionnaires on the CoViD-19 pandemic that have been fielded in the LISS panel.
 
-Below, we list a set of questionnaires on the CoViD-19 pandemic that have been fielded in the LISS panel.
-
-CoViD-19 Impact Lab questionnaires
+General CoViD-19 Impact Lab Questionnaires
 ----------------------------------
 
-We fielded so far a set of six questionnaires on the CoViD-19 pandemic in the LISS panel. Documentation to the questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`_. You can cite our questionnaire by making use of this `DOI <https://zenodo.org/record/4576205#.YE4GC2hKhPa>`_.
+We addressed a set of six questionnaires on the CoViD-19 pandemic to all respondents of the LISS panel. Documentation to the questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`_. You can cite our questionnaire by making use of this `DOI <https://zenodo.org/record/4576205#.YE4GC2hKhPa>`_.
 
 **Wave 1: 20-31 March 2020**
 
@@ -101,14 +99,14 @@ We also designed a Time Use and Consumption Questionnaire tailored to the extrao
 
 	* Type and amount of household expenses in the past month.
 
-** 02-24 November 2020**
+**02-24 November 2020**
 
 	* Division of time during the week including work and free time.
 
 	* Type and amount of household expenses in the past month.
 
 
-Other COVID-19 Questionnaires in the LISS panel
+Early COVID-19 Questionnaire in the LISS panel
 -----------------------------------------------
 
 * A very early set of questions on risks of infection, illness, and being quarantined was fielded **2-19 March 2020**

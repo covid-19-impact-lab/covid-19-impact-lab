@@ -89,14 +89,12 @@ Jongen, E., Ebregt, J., Scheer, B., & Gaudecker, H. M. V.. (2020). `Arbeidsmarkt
 2. Arbeidsmarkt: Historische daling werkzame personen, maar internationaal gezien beperkt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-
 Jongen, E., Ebregt, J., Verstraten, P., & Siflinger, B. (2020). `Arbeidsmarkt: Historische daling werkzame personen, maar internationaal gezien beperkt <https://www.cpb.nl/sites/default/files/omnidownload/CPB-coronapublicatie-juni2020-Internationale-vergelijking-arbeidsmarkt.pdf>`_. CPB coronapublicatie.
 
 **Press Release:**
 
 -  Centraal Planbureau, CPB. (2020, June 12). *Historische daling aantal werkenden is internationaal gezien beperkt: samenhang met beleid*. [Press Release]. (`link <https://www.cpb.nl/internationale-vergelijking-arbeidsmarkt>`_) (*NL*)
 
--------
 
 Thuiswerken vóór, tijdens en ná de coronacrisis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
