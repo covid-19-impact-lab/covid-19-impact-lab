@@ -13,7 +13,7 @@ population as a whole knows, believes, and how people behave in response to
 the current pandemic. In order to gain insights, we are running a panel data
 collection in the Netherlands, thereby facilitating near-real-time monitoring
 of how people respond to the CoViD-19 crisis. On the one hand, we aim to
-quickly generate first insights from contemporaneous data and communicate them
+quickly generate insights from contemporaneous data and communicate them
 to decision-makers and the public. On the other hand, we will continue to provide in-depth
 analyses of mechanisms using microeconomic and microeconometric methods.
 
