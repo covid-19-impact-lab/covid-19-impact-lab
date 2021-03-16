@@ -1,4 +1,4 @@
-CoViD-19 Impact Lab 
+CoViD-19 Impact Lab
 ===================
 
 CoViD-19 Impact Lab was started in mid-March 2020 by a group of economists at
@@ -7,7 +7,7 @@ institutions like the University of Mannheim, the University of Lausanne,
 Tilburg University, and the Institute of Labor Economics (IZA).
 
 CoViD-19 and what it means for us personally, our loved ones, the economy, and
-society in general is on everyone’s mind. To assess how CoViD-19 is impacting
+society in general is on everyone's mind. To assess how CoViD-19 is impacting
 individuals, households, and communities, it is important to know what the
 population as a whole knows, believes, and how people behave in response to
 the current pandemic. In order to gain insights, we are running a panel data
@@ -19,26 +19,35 @@ analyses of mechanisms using microeconomic and microeconometric methods.
 
 Our first such paper reveals that the ability to work from home and essential
 worker status are key predictors of working hours reductions early in the
-crisis, but much less so when economic restrictions are lifted during the summer. We also show that household income in the Netherlands is much less affected than in other countries like the US or UK. Other papers examine job search and mental health during a pandemic recession. Current and future work will be featured under :ref:`publications`. 
+crisis, but much less so when economic restrictions are lifted during the summer.
+We also show that household income in the Netherlands is much less affected than
+in other countries like the US or UK.
+Other papers examine job search and mental health during a pandemic recession.
+Current and future work will be featured under :ref:`publications`.
 
-For further details also `explore our 
-data <https://covid-19-impact-lab.iza.org/en/app>`_. The data explorer contains 
+Our results have been mentioned in several important media outlets like
+Die Zeit (2021-01-14), Die Süddeutsche (2021-01-19),
+`Deutsche Welle <https://bit.ly/38I3cuc>`_ and
+`Tagesschau <https://www.tagesschau.de/multimedia/sendung/ts-41135.html>`_.
+
+For further details also `explore our
+data <https://covid-19-impact-lab.iza.org/en/app>`_. The data explorer contains
 survey results from March 2020 and will soon be updated to include more recent data.
 
 .. toctree:: :maxdepth: 1
 
    Explore Data from March 2020 <https://covid-19-impact-lab.iza.org/app>
-   publications 
-   goals 
-   datasets 
+   publications
+   goals
+   datasets
    Questionnaire Documentation <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>
-   contribute 
-   tech_support 
-   coding_guidelines 
+   contribute
+   tech_support
+   coding_guidelines
    people
 
 
-Supported by 
+Supported by
 ------------
 
 .. raw:: html

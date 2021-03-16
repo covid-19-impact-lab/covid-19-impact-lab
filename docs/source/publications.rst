@@ -34,6 +34,67 @@ Balgova, M., Trenkle, S., Zimpelmann, C., Pestel, N. (2021). `Job Search during 
 -----
 
 
+Research Article (February 2021): People Meet People - A Microlevel Approach to Predicting the Effect of Policies on the Spread of COVID-19
+.............................................................................................................................................
+
+Gabler, J., Raabe, T., Röhrl, K. (2021). `People Meet People - A Microlevel Approach to Predicting the Effect of Policies on the Spread of COVID-19 <https://www.crctr224.de/en/research-output/discussion-papers/archive/2021/DP265>`_. Collaborative Research Center Transregio 224.
+
+.. raw:: html
+
+   <details>
+   <summary><b><a>Abstract</a></b></summary>
+
+   Governments worldwide have been adopting diverse and nuanced policy measures tocontain the spread of Covid-19. However, epidemiological models usually lack the de-tailed representation of human meeting patterns to credibly predict the effects suchpolicies. We propose a novel simulation-based model to address these shortcomings.We build on state-of-the-art agent-based simulation models, greatly increasing theamount of detail and realism with which contacts take place. Firstly, we allow fordifferent contact types (such as work, school, households or leisure), distinguish re-current and non-recurrent contacts and allow the infectiousness of meetings to varybetween contact types. Secondly, we allow agents to seek tests and react to informa-tion, such as experiencing symptoms, receiving a positive test or a known case amongtheir contacts, by reducing their own contacts. This allows us to model the effects ofa wide array very targeted policies such as split classes, mandatory work from homeschemes or test-and-trace policies. To validate our model, we show that it can pre-dict the effect of the German November lockdown even if no similar policy has beenobserved during the time period that was used to estimate the model parameters.
+
+   </details>
+
+
+Policy Report (January 2021): Der Effekt von Heimarbeit auf die Entwicklung der Covid-19-Pandemie in Deutschland
+.................................................................................................................
+
+Gabler, J., Raabe, T., Röhrl, K., Gaudecker, H. M. V. (2021). `IZA Standpunkt Nr. 100: Der Effekt von Heimarbeit auf die Entwicklung der Covid-19-Pandemie in Deutschland <https://www.iza.org/de/publications/s/100/der-effekt-von-heimarbeit-auf-die-entwicklung-der-covid-19-pandemie-in-deutschland>`_. Institute of Labor Economics (IZA).
+
+.. raw:: html
+
+   <details>
+   <summary><b><a>Abstract</a></b></summary>
+
+   Wir nutzen ein detailliertes agentenbasiertes Simulationsmodell, um den Einfluss von höheren Homeofficequoten und Schulschließungen auf den Verlauf der Covid-19-Pandemie bis Ende Februar 2021 abzuschätzen. Ausgehend vom derzeitigen Niveau von 25% würde eine dauerhafte Erhöhung der Homeofficequote um 10 Prozentpunkte ab Ende Januar dazu führen, dass die Zahl der Neuinfektionen Ende Februar um gut ein Viertel niedriger wäre. Der Infektionszahlen bremsende Effekt von Schul- und Kitaschließungen rührt zu großenTeilen daher, dass mindestens ein Elternteil zu Hause bleiben muss.
+
+   </details>
+
+
+
+Policy Report (Dezember 2020): Die Bedeutung individuellen Verhaltens über den Jahreswechsel für die Weiterentwicklung der Covid-19-Pandemie in Deutschland
+............................................................................................................................................................
+
+Gabler, J., Raabe, T., Röhrl, K., Gaudecker, H. M. V. (2020). `IZA Standpunkt Nr. 99: Die Bedeutung individuellen Verhaltens über den Jahreswechsel für die Weiterentwicklung der Covid-19-Pandemie in Deutschland <https://www.iza.org/de/publications/s/99/die-bedeutung-individuellen-verhaltens-uber-den-jahreswechsel-fur-die-weiterentwicklung-der-covid-19-pandemie-in-deutschland>`_. Institute of Labor Economics (IZA).
+
+.. raw:: html
+
+   <details>
+   <summary><b><a>Abstract</a></b></summary>
+
+   Wir nutzen ein neues Modell, um den Verlauf der Covid-19-Pandemie über die Weihnachtstage und den Jahreswechsel vorherzusagen. Während die weitgehende Schließung der Betriebe neben den verlängerten Schulferien die Infektionszahlen drücken, werden Reiseaktivitäten und Weihnachtsfeiern zu einem starken Anstieg führen. Unsere Ergebnisse geben wenig Anlass zur Hoffnung, dass die Infektionszahlen über die Weihnachtstage und den Jahreswechsel nennenswert zurückgehen. Eher dürfte das Gegenteil der Fall sein. Einen großen Effekt kann die private Kontaktnachverfolgung ausmachen. Wenn alle Teilnehmer von Weihnachtsfeierlichkeiten über einen später auftretenden Infektionsverdacht (Symptome oder positiver Test) umgehend benachrichtigt werden und ihre Kontakte reduzieren, könnten mehrere hunderttausend Infektionen in der ersten Januarhälfte vermieden werden.
+
+   </details>
+
+
+Policy Report (November 2020): Simulation der Auswirkungen von Politikmaßnahmen zur Eindämmung der zweiten Covid-19-Welle
+...........................................................................................................................
+
+Dorn, F., Gabler, J., Gaudecker, H. M. V., Peichl, A., Raabe, T., Röhrl, K. (2020). `Wenn Menschen (keine) Menschen treffen: Simulation der Auswirkungen von Politikmaßnahmen zur Eindämmung der zweiten Covid-19-Welle <https://www.ifo.de/publikationen/2020/aufsatz-zeitschrift/wenn-menschen-keine-menschen-treffen-simulation>`_. Ifo Institute for Economic Research.
+
+.. raw:: html
+
+  <details>
+  <summary><b><a>Abstract</a></b></summary>
+
+  Um die zweite Corona-Welle im Herbst zu brechen, hat Deutschland im November 2020 einen »Lockdown-light« verhängt. Dieser reichte noch nicht aus, um die von der Politik selbstgesetzten Voraussetzungen für eine Lockerung der Maßnahmen in Form eines Corona-Inzidenzwertes von unter 50 zu erfüllen. Die Politik muss nun abwägen, wie sie die Infektionen in den nächsten Wochen weiter zurückführen möchte, wenn sie den Lockdown nicht bis ins Frühjahr verlängern möchte. Mit Hilfe eines neu entwickelten mikrobasierten Modells simulieren wir die Wirkung verschiedener kontaktreduzierender Politikmaßnahmen. Unsere Ergebnisse zeigen, dass eine Verlängerung des bisherigen Lockdown-light die Zahl der Neuinfektionszahlen in den nächsten Wochen nur sehr langsam reduzieren würde. Bis Weihnachten würde der Inzidenzwert deutschlandweit nicht unter 75 fallen. Um die Inzidenz über Kontaktbeschränkungen weiter zu reduzieren, diskutiert die Politik Optionen, die von verschiedenen Verschärfungen der Restriktionen in Bildungseinrichtungen oder im Einzelhandel bis hin zu weitgehenden Kontakt- und Ausgangsbeschränkungen reichen. Eine Option ist die Einführung von Wechselklassen bzw. digitalem Fernunterricht. Unsere Analysen zeigen, dass eine solche Einschränkung des Schulbetriebs ausreichen könnte, um bis Weihnachten den 7-Tageinzidenzwert von 50 zu unterschreiten. Allerdings drohen große Kosten im Bereich der Bildung für Schüler, an deren Schulen die notwendige digitale Infrastruktur und Konzepte für Homeschooling nicht vorhanden sind. Diese könnten Deutschland langfristig großen Schaden zufügen. Jedoch ist es auch bei regulärem Schulbetrieb möglich, die 7-Tagesinzidenz bis Weihnachten unter 50 zu drücken: Die Simulationen zeigen, dass die Schließung und Einschränkung weiterer Wirtschafts- und Geschäftstätigkeiten mit offenen Schulen dieselbe Wirkung hätte wie die zusätzliche Schließung von Schulen bei Fortführung des Lockdown-light. Wenn das Infektionsgeschehen also stärker reduziert werden soll, braucht es eine Abwägung, welcher Schaden wirtschaftlich und gesellschaftlich höher einzustufen ist: der langfristige durch die Einschränkung der Schulen oder der kurzfristige durch die Schließung weiterer Wirtschaftszweige.
+
+  </details>
+
+
 Research Article (August 2020): Labour Supply during Lockdown and a "New Normal": The Case of the Netherlands
 .....................................................................................................................
 
@@ -111,7 +172,7 @@ Blogposts, Articles, and other Media
 - **Article** by `General-Anzeiger Bonn <https://www.general-anzeiger-bonn.de/>`_: *Forscher aus Bonn untersucht Wirtschaft unter Corona: Lockerheit und Lockdown in den Niederlanden* (`link <https://www.general-anzeiger-bonn.de/news/wissen-und-bildung/regional/corona-in-den-niederlanden-forscher-aus-bonn-untersucht-wirtschaft_aid-51958281>`_) (*July 1, 2020*) (*DE*)
 
 - **Article** by `DNBulletin <https://www.dnb.nl/en/news/news-and-archive/index.jsp>`_: *Dutch consumers expect to be hit long-term by economic crisis due to coronavirus outbreak* (`link <https://www.dnb.nl/en/news/news-and-archive/dnbulletin-2020/dnb388698.jsp>`_) (*May 18, 2020*)
- 	 
+
 
 - **Blogpost** by `Ingo Isphoring <https://www.iza.org/person/8625/ingo-e-isphording>`_ & `Maria Balgova <https://www.iza.org/people/staff/28631/maria-balgova>`_: *Support for curfew depends on beliefs about others’ compliance - Young males are more likely to disobey* (`download <_static/blogpost_noncompliance.pdf>`__) (*April 2020*)
 
