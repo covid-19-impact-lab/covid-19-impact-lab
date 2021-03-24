@@ -15,11 +15,7 @@ quickly generate insights from contemporaneous data and communicate them
 to decision-makers and the public. On the other hand, we will continue to provide in-depth
 analyses of mechanisms using microeconomic and microeconometric methods.
 
-Our first such paper reveals that the ability to work from home and essential
-worker status are key predictors of working hours reductions early in the
-crisis, but much less so when economic restrictions are lifted during the summer.
-We also show that household income in the Netherlands is much less affected than
-in other countries like the US or UK. Other papers examine job search and mental health during a pandemic recession.
+In our first papers, we look at the driving forces of working hours reductions, job search and mental health during a pandemic recession. In a simulation model, we explore the effects of different containment policies on infection numbers.
 Current and future work will be featured under :ref:`publications`.
 
 Our results have been mentioned in several important media outlets like
@@ -27,7 +23,7 @@ Die Zeit (2021-01-14), Die Süddeutsche (2021-01-19),
 `Deutsche Welle <https://bit.ly/38I3cuc>`_ and
 `Tagesschau <https://www.tagesschau.de/multimedia/sendung/ts-41135.html>`_.
 
-We describe the data we are using and especially the data set we collected under :ref:`datasets`. Documentation to our questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`_. For further details also `explore our
+We describe the data we are using and especially the data set we collected under :ref:`datasets` :ref:`publications`. Documentation to our questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`_. For further details also `explore our
 data <https://covid-19-impact-lab.iza.org/en/app>`_.
 
 .. toctree:: :maxdepth: 1
