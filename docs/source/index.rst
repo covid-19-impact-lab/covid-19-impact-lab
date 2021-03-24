@@ -6,11 +6,9 @@ Bonn and now consists of students and more senior researchers from several
 institutions like the University of Mannheim, the University of Lausanne,
 Tilburg University, and the Institute of Labor Economics (IZA).
 
-CoViD-19 and what it means for us personally, our loved ones, the economy, and
-society in general is on everyone's mind. To assess how CoViD-19 is impacting
-individuals, households, and communities, it is important to know what the
+To assess how CoViD-19 is impacting individuals, households, and communities, it is important to know what the
 population as a whole knows, believes, and how people behave in response to
-the current pandemic. In order to gain insights, we are running a panel data
+the current pandemic. In order to gain insights, we were running a panel data
 collection in the Netherlands, thereby facilitating near-real-time monitoring
 of how people respond to the CoViD-19 crisis. On the one hand, we aim to
 quickly generate insights from contemporaneous data and communicate them
@@ -21,8 +19,7 @@ Our first such paper reveals that the ability to work from home and essential
 worker status are key predictors of working hours reductions early in the
 crisis, but much less so when economic restrictions are lifted during the summer.
 We also show that household income in the Netherlands is much less affected than
-in other countries like the US or UK.
-Other papers examine job search and mental health during a pandemic recession.
+in other countries like the US or UK. Other papers examine job search and mental health during a pandemic recession.
 Current and future work will be featured under :ref:`publications`.
 
 Our results have been mentioned in several important media outlets like
@@ -30,20 +27,19 @@ Die Zeit (2021-01-14), Die Süddeutsche (2021-01-19),
 `Deutsche Welle <https://bit.ly/38I3cuc>`_ and
 `Tagesschau <https://www.tagesschau.de/multimedia/sendung/ts-41135.html>`_.
 
-For further details also `explore our
-data <https://covid-19-impact-lab.iza.org/en/app>`_. The data explorer contains
-survey results from March 2020 and will soon be updated to include more recent data.
+We describe the data we are using and especially the data set we collected under :ref:`datasets`. Documentation to our questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`_. For further details also `explore our
+data <https://covid-19-impact-lab.iza.org/en/app>`_.
 
 .. toctree:: :maxdepth: 1
 
-   Explore Data from March 2020 <https://covid-19-impact-lab.iza.org/app>
    publications
-   goals
+  ..  goals
    datasets
    Questionnaire Documentation <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>
+   Explore Data <https://covid-19-impact-lab.iza.org/app>
    contribute
-   tech_support
-   coding_guidelines
+  ..  tech_support
+  ..  coding_guidelines
    people
 
 

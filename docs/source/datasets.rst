@@ -15,7 +15,7 @@ The `LISS panel <https://www.lissdata.nl/>`_ is a Dutch survey of 4500 household
 General CoViD-19 Impact Lab Questionnaires
 ----------------------------------
 
-We addressed a set of six questionnaires on the CoViD-19 pandemic to all respondents of the LISS panel. Documentation to the questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`_. You can cite our questionnaire by making use of this `DOI <https://zenodo.org/record/4576205#.YE4GC2hKhPa>`_.
+We addressed a set of six questionnaires on the CoViD-19 pandemic to all respondents of the LISS panel. Documentation to the questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`_. You can explore our data `here <https://covid-19-impact-lab.iza.org/app>`_. Please cite our questionnaire by making use of this `DOI <https://zenodo.org/record/4576205#.YE4GC2hKhPa>`_.
 
 **Wave 1: 20-31 March 2020**
 
@@ -106,13 +106,13 @@ We also designed a Time Use and Consumption Questionnaire tailored to the extrao
 	* Type and amount of household expenses in the past month.
 
 
-Early COVID-19 Questionnaire in the LISS panel
------------------------------------------------
+.. Early COVID-19 Questionnaire in the LISS panel
+.. -----------------------------------------------
 
-* A very early set of questions on risks of infection, illness, and being quarantined was fielded **2-19 March 2020**
+.. * A very early set of questions on risks of infection, illness, and being quarantined was fielded **2-19 March 2020**
 
-* Designed by `Peter van der Velden <https://www.centerdata.nl/en/about-us/peter-van-der-velden>`__: `Questionnaire in English and Dutch <_static/Corona-virus-LISS-panel-early-March-2019.pdf>`__.
-* Results on the basis of this data by Peter van der Velden, Miquelle Marchand, Boukje Cuelenaere, and Marcel Das are linked under `Pre-outbreak determinants of perceived risks of corona infection and preventive measures taken. A prospective population-based study <https://doi.org/10.1371/journal.pone.0234600>`_.
+.. * Designed by `Peter van der Velden <https://www.centerdata.nl/en/about-us/peter-van-der-velden>`__: `Questionnaire in English and Dutch <_static/Corona-virus-LISS-panel-early-March-2019.pdf>`__.
+.. * Results on the basis of this data by Peter van der Velden, Miquelle Marchand, Boukje Cuelenaere, and Marcel Das are linked under `Pre-outbreak determinants of perceived risks of corona infection and preventive measures taken. A prospective population-based study <https://doi.org/10.1371/journal.pone.0234600>`_.
 
 The RKI ARS Data
 =================
@@ -122,10 +122,10 @@ However, this data is only published in the form of weekly pdf reports.
 For age groups we have converted this data to tabular data which can be downloaded `here <https://github.com/roecla/rki_ars_covid_test_data>`_.
 
 
-Understanding America Survey
-=============================
+.. Understanding America Survey
+.. =============================
 
-The `Understanding America Study <https://uasdata.usc.edu/>`_ is conducting the `UAS Understanding Coronavirus in America (“Covid”) Survey <https://uasdata.usc.edu/index.php>`_, which includes a national bi-weekly long-form survey and a weekly Los Angeles County short-form survey.
+.. The `Understanding America Study <https://uasdata.usc.edu/>`_ is conducting the `UAS Understanding Coronavirus in America (“Covid”) Survey <https://uasdata.usc.edu/index.php>`_, which includes a national bi-weekly long-form survey and a weekly Los Angeles County short-form survey.
 
 GESIS Panel
 ===========
@@ -139,5 +139,5 @@ SARS-CoV 2 Outbreak in Germany. More information can be found `here <https://www
 A tracker of trackers: COVID-19 policy responses and data
 ============================================================
 
-For a more extensive list of possible data sources than the ones listed here, see Lukas Lehner's `tracker of trackers <https://lukaslehner.github.io/covid19policytrackers/>`_. The site offers a comprehensive overview of many policy trackers and dataset focusing on the coronavirus pandemic. The tracker has since been updated and is now available as the `Oxford Supertracker <https://supertracker.spi.ox.ac.uk/>`_.
+For a more extensive list of possible data sources, see Lukas Lehner's `tracker of trackers <https://lukaslehner.github.io/covid19policytrackers/>`_. The site offers a comprehensive overview of many policy trackers and dataset focusing on the coronavirus pandemic. The tracker has since been updated and is now available as the `Oxford Supertracker <https://supertracker.spi.ox.ac.uk/>`_.
 
