@@ -33,13 +33,10 @@ data <https://covid-19-impact-lab.iza.org/en/app>`_.
 .. toctree:: :maxdepth: 1
 
    publications
-  ..  goals
    datasets
    Questionnaire Documentation <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>
    Explore Data <https://covid-19-impact-lab.iza.org/app>
    contribute
-  ..  tech_support
-  ..  coding_guidelines
    people
 
 
