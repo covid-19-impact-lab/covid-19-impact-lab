@@ -23,7 +23,7 @@ Die Zeit (2021-01-14), Die Süddeutsche (2021-01-19),
 `Deutsche Welle <https://bit.ly/38I3cuc>`_ and
 `Tagesschau <https://www.tagesschau.de/multimedia/sendung/ts-41135.html>`_.
 
-We describe the data we are using and especially the data set we collected under :ref:`datasets` :ref:`publications`. Documentation to our questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`_. For further details also `explore our
+We describe the data we are using and especially the data set we collected under :ref:`datasets`. Documentation to our questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`_. For further details also `explore our
 data <https://covid-19-impact-lab.iza.org/en/app>`_.
 
 .. toctree:: :maxdepth: 1
