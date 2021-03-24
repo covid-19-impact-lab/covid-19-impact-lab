@@ -6,9 +6,7 @@ Bonn and now consists of students and more senior researchers from several
 institutions like the University of Mannheim, the University of Lausanne,
 Tilburg University, and the Institute of Labor Economics (IZA).
 
-To assess how CoViD-19 is impacting individuals, households, and communities, it is important to know what the
-population as a whole knows, believes, and how people behave in response to
-the current pandemic. In order to gain insights, we were running a panel data
+To assess how CoViD-19 is impacting individuals, households, and communities, we were running a panel data
 collection in the Netherlands, thereby facilitating near-real-time monitoring
 of how people respond to the CoViD-19 crisis. On the one hand, we aim to
 quickly generate insights from contemporaneous data and communicate them
@@ -16,15 +14,15 @@ to decision-makers and the public. On the other hand, we will continue to provid
 analyses of mechanisms using microeconomic and microeconometric methods.
 
 In our first papers, we look at the driving forces of working hours reductions, job search and mental health during a pandemic recession. In a simulation model, we explore the effects of different containment policies on infection numbers.
-Current and future work will be featured under :ref:`publications`.
+Our work is featured under :ref:`publications`.
 
 Our results have been mentioned in several important media outlets like
 Die Zeit (2021-01-14), Die Süddeutsche (2021-01-19),
-`Deutsche Welle <https://bit.ly/38I3cuc>`_ and
-`Tagesschau <https://www.tagesschau.de/multimedia/sendung/ts-41135.html>`_.
+`Deutsche Welle <https://bit.ly/38I3cuc>`__ and
+`Tagesschau <https://www.tagesschau.de/multimedia/sendung/ts-41135.html>`__.
 
-We describe the data we are using and especially the data set we collected under :ref:`datasets` :ref:`publications`. Documentation to our questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`_. For further details also `explore our
-data <https://covid-19-impact-lab.iza.org/en/app>`_.
+We describe the data we are using and especially the data set we collected under :ref:`datasets`. Documentation to our questionnaires is made available `here <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>`__. For further details also `explore our
+data <https://covid-19-impact-lab.iza.org/en/app>`__.
 
 .. toctree:: :maxdepth: 1
 

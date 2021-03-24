@@ -19,7 +19,7 @@ Reports & Research Articles
 Research Article (March 2021): Job Search during a Pandemic Recession: Survey Evidence from the Netherlands
 .....................................................................................................................
 
-Balgova, M., Trenkle, S., Zimpelmann, C., Pestel, N. (2021). `Job Search during a Pandemic Recession: Survey Evidence from the Netherlands (No. 14180) <http://ftp.iza.org/dp14180.pdf>`_. Institute of Labor Economics (IZA).
+Balgova, M., Trenkle, S., Zimpelmann, C., Pestel, N. (2021). `Job Search during a Pandemic Recession: Survey Evidence from the Netherlands (No. 14180) <http://ftp.iza.org/dp14180.pdf>`__. Institute of Labor Economics (IZA).
 
 .. raw:: html
 
@@ -37,7 +37,7 @@ Balgova, M., Trenkle, S., Zimpelmann, C., Pestel, N. (2021). `Job Search during 
 Research Article (February 2021): People Meet People - A Microlevel Approach to Predicting the Effect of Policies on the Spread of COVID-19
 .............................................................................................................................................
 
-Gabler, J., Raabe, T., Röhrl, K. (2021). `People Meet People - A Microlevel Approach to Predicting the Effect of Policies on the Spread of COVID-19 <https://www.crctr224.de/en/research-output/discussion-papers/archive/2021/DP265>`_. Collaborative Research Center Transregio 224.
+Gabler, J., Raabe, T., Röhrl, K. (2021). `People Meet People - A Microlevel Approach to Predicting the Effect of Policies on the Spread of COVID-19 <https://www.crctr224.de/en/research-output/discussion-papers/archive/2021/DP265>`__. Collaborative Research Center Transregio 224.
 
 .. raw:: html
 
@@ -52,7 +52,7 @@ Gabler, J., Raabe, T., Röhrl, K. (2021). `People Meet People - A Microlevel App
 Policy Report (January 2021): Der Effekt von Heimarbeit auf die Entwicklung der Covid-19-Pandemie in Deutschland
 .................................................................................................................
 
-Gabler, J., Raabe, T., Röhrl, K., Gaudecker, H. M. V. (2021). `IZA Standpunkt Nr. 100: Der Effekt von Heimarbeit auf die Entwicklung der Covid-19-Pandemie in Deutschland <https://www.iza.org/de/publications/s/100/der-effekt-von-heimarbeit-auf-die-entwicklung-der-covid-19-pandemie-in-deutschland>`_. Institute of Labor Economics (IZA).
+Gabler, J., Raabe, T., Röhrl, K., Gaudecker, H. M. V. (2021). `IZA Standpunkt Nr. 100: Der Effekt von Heimarbeit auf die Entwicklung der Covid-19-Pandemie in Deutschland <https://www.iza.org/de/publications/s/100/der-effekt-von-heimarbeit-auf-die-entwicklung-der-covid-19-pandemie-in-deutschland>`__. Institute of Labor Economics (IZA).
 
 .. raw:: html
 
@@ -68,7 +68,7 @@ Gabler, J., Raabe, T., Röhrl, K., Gaudecker, H. M. V. (2021). `IZA Standpunkt N
 Policy Report (Dezember 2020): Die Bedeutung individuellen Verhaltens über den Jahreswechsel für die Weiterentwicklung der Covid-19-Pandemie in Deutschland
 ............................................................................................................................................................
 
-Gabler, J., Raabe, T., Röhrl, K., Gaudecker, H. M. V. (2020). `IZA Standpunkt Nr. 99: Die Bedeutung individuellen Verhaltens über den Jahreswechsel für die Weiterentwicklung der Covid-19-Pandemie in Deutschland <https://www.iza.org/de/publications/s/99/die-bedeutung-individuellen-verhaltens-uber-den-jahreswechsel-fur-die-weiterentwicklung-der-covid-19-pandemie-in-deutschland>`_. Institute of Labor Economics (IZA).
+Gabler, J., Raabe, T., Röhrl, K., Gaudecker, H. M. V. (2020). `IZA Standpunkt Nr. 99: Die Bedeutung individuellen Verhaltens über den Jahreswechsel für die Weiterentwicklung der Covid-19-Pandemie in Deutschland <https://www.iza.org/de/publications/s/99/die-bedeutung-individuellen-verhaltens-uber-den-jahreswechsel-fur-die-weiterentwicklung-der-covid-19-pandemie-in-deutschland>`__. Institute of Labor Economics (IZA).
 
 .. raw:: html
 
@@ -83,7 +83,7 @@ Gabler, J., Raabe, T., Röhrl, K., Gaudecker, H. M. V. (2020). `IZA Standpunkt N
 Policy Report (November 2020): Simulation der Auswirkungen von Politikmaßnahmen zur Eindämmung der zweiten Covid-19-Welle
 ...........................................................................................................................
 
-Dorn, F., Gabler, J., Gaudecker, H. M. V., Peichl, A., Raabe, T., Röhrl, K. (2020). `Wenn Menschen (keine) Menschen treffen: Simulation der Auswirkungen von Politikmaßnahmen zur Eindämmung der zweiten Covid-19-Welle <https://www.ifo.de/publikationen/2020/aufsatz-zeitschrift/wenn-menschen-keine-menschen-treffen-simulation>`_. Ifo Institute for Economic Research.
+Dorn, F., Gabler, J., Gaudecker, H. M. V., Peichl, A., Raabe, T., Röhrl, K. (2020). `Wenn Menschen (keine) Menschen treffen: Simulation der Auswirkungen von Politikmaßnahmen zur Eindämmung der zweiten Covid-19-Welle <https://www.ifo.de/publikationen/2020/aufsatz-zeitschrift/wenn-menschen-keine-menschen-treffen-simulation>`__. Ifo Institute for Economic Research.
 
 .. raw:: html
 
@@ -98,7 +98,7 @@ Dorn, F., Gabler, J., Gaudecker, H. M. V., Peichl, A., Raabe, T., Röhrl, K. (20
 Research Article (August 2020): Labour Supply during Lockdown and a "New Normal": The Case of the Netherlands
 .....................................................................................................................
 
-Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (2020). `Labour Supply during Lockdown and a "New Normal": The Case of the Netherlands (No. 13623) <https://www.iza.org/publications/dp/13623/labour-supply-during-lockdown-and-a-new-normal-the-case-of-the-netherlands>`_. Institute of Labor Economics (IZA).
+Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (2020). `Labour Supply during Lockdown and a "New Normal": The Case of the Netherlands (No. 13623) <https://www.iza.org/publications/dp/13623/labour-supply-during-lockdown-and-a-new-normal-the-case-of-the-netherlands>`__. Institute of Labor Economics (IZA).
 
 .. raw:: html
 
@@ -113,17 +113,17 @@ Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (
 -----
 
 Research Article (April 2020): Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations
-....................................................................................................................................................
+......................................................................................................................................................
 
-Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (2020). `Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations (No. 13158) <https://www.iza.org/publications/dp/13158/labour-supply-in-the-early-stages-of-the-covid-19-pandemic-empirical-evidence-on-hours-home-office-and-expectations>`_. Institute of Labor Economics (IZA).
+Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (2020). `Labour Supply in the Early Stages of the COVID-19 Pandemic: Empirical Evidence on Hours, Home Office, and Expectations (No. 13158) <https://www.iza.org/publications/dp/13158/labour-supply-in-the-early-stages-of-the-covid-19-pandemic-empirical-evidence-on-hours-home-office-and-expectations>`__. Institute of Labor Economics (IZA).
 
 **Press Releases:**
 
-- Institute of Labor Economics (IZA). (2020, April 17). *Low-income earners suffer most from the COVID-19 crisis - Having the option to work from home is largely a matter of education*. [Press Release]. (`link <https://newsroom.iza.org/en/archive/research/low-income-earners-suffer-most-from-the-covid-19-crisis/>`_) (*EN*)
+- Institute of Labor Economics (IZA). (2020, April 17). *Low-income earners suffer most from the COVID-19 crisis - Having the option to work from home is largely a matter of education*. [Press Release]. (`link <https://newsroom.iza.org/en/archive/research/low-income-earners-suffer-most-from-the-covid-19-crisis/>`__) (*EN*)
 
-- ECONribute. (2020, April 17). *Econtribute Studie – Coronavirus: Geringverdiener Sind Doppelte Verlierer Der Coronakrise*. [Press Release]. (`link <https://selten.institute/2020/04/17/econtribute-studie-coronavirus-geringverdiener-sind-doppelte-verlierer-der-coronakrise/>`_) (*DE*)
+- ECONribute. (2020, April 17). *Econtribute Studie – Coronavirus: Geringverdiener Sind Doppelte Verlierer Der Coronakrise*. [Press Release]. (`link <https://selten.institute/2020/04/17/econtribute-studie-coronavirus-geringverdiener-sind-doppelte-verlierer-der-coronakrise/>`__) (*DE*)
 
-- Tilburg University. (2020, April 21). *Lage inkomens lijden het meest onder de coronacrisis* [Press Release]. (`link <https://www.tilburguniversity.edu/nl/actueel/nieuws/meer-nieuws/lage-inkomens-lijden-het-meest-onder-de-coronacrisis>`_) (*NL*)
+- Tilburg University. (2020, April 21). *Lage inkomens lijden het meest onder de coronacrisis* [Press Release]. (`link <https://www.tilburguniversity.edu/nl/actueel/nieuws/meer-nieuws/lage-inkomens-lijden-het-meest-onder-de-coronacrisis>`__) (*NL*)
 
 .. raw:: html
 
@@ -136,32 +136,32 @@ Gaudecker, H. M. V., Holler, R., Janys, L., Siflinger, B. M., & Zimpelmann, C. (
 
 -----
 
-Reports in Cooperation with `CPB <https://www.cpb.nl/>`_
+Reports in Cooperation with `CPB <https://www.cpb.nl/>`__
 ..........................................................
 
 1. Arbeidsmarkt: sterke daling gewerkte uren
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Jongen, E., Ebregt, J., Scheer, B., & Gaudecker, H. M. V.. (2020). `Arbeidsmarkt: sterke daling gewerkte uren <https://www.cpb.nl/sites/default/files/omnidownload/CPB-coronapublicatie-mei2020-Arbeidsmarkt-sterke-daling-gewerkte-uren.pdf>`_. CPB coronapublicatie.
+Jongen, E., Ebregt, J., Scheer, B., & Gaudecker, H. M. V.. (2020). `Arbeidsmarkt: sterke daling gewerkte uren <https://www.cpb.nl/sites/default/files/omnidownload/CPB-coronapublicatie-mei2020-Arbeidsmarkt-sterke-daling-gewerkte-uren.pdf>`__. CPB coronapublicatie.
 
 **Press Release:**
 
--  Centraal Planbureau, CPB. (2020, May 14). *Historische daling gewerkte uren*. [Press Release]. (`link <https://www.cpb.nl/arbeidsmarkt-sterke-daling-gewerkte-uren#>`_) (*NL*)
+-  Centraal Planbureau, CPB. (2020, May 14). *Historische daling gewerkte uren*. [Press Release]. (`link <https://www.cpb.nl/arbeidsmarkt-sterke-daling-gewerkte-uren#>`__) (*NL*)
 
 2. Arbeidsmarkt: Historische daling werkzame personen, maar internationaal gezien beperkt
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Jongen, E., Ebregt, J., Verstraten, P., & Siflinger, B. (2020). `Arbeidsmarkt: Historische daling werkzame personen, maar internationaal gezien beperkt <https://www.cpb.nl/sites/default/files/omnidownload/CPB-coronapublicatie-juni2020-Internationale-vergelijking-arbeidsmarkt.pdf>`_. CPB coronapublicatie.
+Jongen, E., Ebregt, J., Verstraten, P., & Siflinger, B. (2020). `Arbeidsmarkt: Historische daling werkzame personen, maar internationaal gezien beperkt <https://www.cpb.nl/sites/default/files/omnidownload/CPB-coronapublicatie-juni2020-Internationale-vergelijking-arbeidsmarkt.pdf>`__. CPB coronapublicatie.
 
 **Press Release:**
 
--  Centraal Planbureau, CPB. (2020, June 12). *Historische daling aantal werkenden is internationaal gezien beperkt: samenhang met beleid*. [Press Release]. (`link <https://www.cpb.nl/internationale-vergelijking-arbeidsmarkt>`_) (*NL*)
+-  Centraal Planbureau, CPB. (2020, June 12). *Historische daling aantal werkenden is internationaal gezien beperkt: samenhang met beleid*. [Press Release]. (`link <https://www.cpb.nl/internationale-vergelijking-arbeidsmarkt>`__) (*NL*)
 
 
 Thuiswerken vóór, tijdens en ná de coronacrisis
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-Jongen, E., Verstraten, P., & Zimpelmann, C. (2021). `Thuiswerken vóór, tijdens en ná de coronacrisis <https://www.cpb.nl/sites/default/files/omnidownload/CPB-Achtergronddocument-Thuiswerken-voor-tijdens-en-na-de-coronacrisis_1.pdf>`_.
+Jongen, E., Verstraten, P., & Zimpelmann, C. (2021). `Thuiswerken vóór, tijdens en ná de coronacrisis <https://www.cpb.nl/sites/default/files/omnidownload/CPB-Achtergronddocument-Thuiswerken-voor-tijdens-en-na-de-coronacrisis_1.pdf>`__.
 
 
 -------
@@ -169,13 +169,13 @@ Jongen, E., Verstraten, P., & Zimpelmann, C. (2021). `Thuiswerken vóór, tijden
 Blogposts, Articles, and other Media
 -------------------------------------
 
-- **Article** by `General-Anzeiger Bonn <https://www.general-anzeiger-bonn.de/>`_: *Forscher aus Bonn untersucht Wirtschaft unter Corona: Lockerheit und Lockdown in den Niederlanden* (`link <https://www.general-anzeiger-bonn.de/news/wissen-und-bildung/regional/corona-in-den-niederlanden-forscher-aus-bonn-untersucht-wirtschaft_aid-51958281>`_) (*July 1, 2020*) (*DE*)
+- **Article** by `General-Anzeiger Bonn <https://www.general-anzeiger-bonn.de/>`__: *Forscher aus Bonn untersucht Wirtschaft unter Corona: Lockerheit und Lockdown in den Niederlanden* (`link <https://www.general-anzeiger-bonn.de/news/wissen-und-bildung/regional/corona-in-den-niederlanden-forscher-aus-bonn-untersucht-wirtschaft_aid-51958281>`__) (*July 1, 2020*) (*DE*)
 
-- **Article** by `DNBulletin <https://www.dnb.nl/en/news/news-and-archive/index.jsp>`_: *Dutch consumers expect to be hit long-term by economic crisis due to coronavirus outbreak* (`link <https://www.dnb.nl/en/news/news-and-archive/dnbulletin-2020/dnb388698.jsp>`_) (*May 18, 2020*)
-
-
-- **Blogpost** by `Ingo Isphoring <https://www.iza.org/person/8625/ingo-e-isphording>`_ & `Maria Balgova <https://www.iza.org/people/staff/28631/maria-balgova>`_: *Support for curfew depends on beliefs about others’ compliance - Young males are more likely to disobey* (`download <_static/blogpost_noncompliance.pdf>`__) (*April 2020*)
+- **Article** by `DNBulletin <https://www.dnb.nl/en/news/news-and-archive/index.jsp>`__: *Dutch consumers expect to be hit long-term by economic crisis due to coronavirus outbreak* (`link <https://www.dnb.nl/en/news/news-and-archive/dnbulletin-2020/dnb388698.jsp>`__) (*May 18, 2020*)
 
 
-- **Data Exploration Tool**: Explore What People Believe and Do in Response to CoViD-19 (`link <https://covid-19-impact-lab.iza.org/en/app>`_) (*April 2020*)
+- **Blogpost** by `Ingo Isphoring <https://www.iza.org/person/8625/ingo-e-isphording>`__ & `Maria Balgova <https://www.iza.org/people/staff/28631/maria-balgova>`__: *Support for curfew depends on beliefs about others’ compliance - Young males are more likely to disobey* (`download <_static/blogpost_noncompliance.pdf>`__) (*April 2020*)
+
+
+- **Data Exploration Tool**: Explore What People Believe and Do in Response to CoViD-19 (`link <https://covid-19-impact-lab.iza.org/en/app>`__) (*April 2020*)
 
