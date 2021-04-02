@@ -15,13 +15,13 @@ Community Manager
 
 Data Collection and Preparation
 *******************************
-* Renata Abikeyeva
-* Felipe Azuero
 * Hans-Martin von Gaudecker
 * Jürgen Maurer (Lausanne)
 * Moritz Mendel
 * Bettina Siflinger (Tilburg)
 * Christian Zimpelmann
+* Mariam Petrosyan
+* Renata Abikeyeva
 
 Modelling and Data Analyses
 ***************************
@@ -32,7 +32,6 @@ Modelling and Data Analyses
 * Radost Holler
 * Ingo Isphording (IZA)
 * Lena Janys
-* Eva Lucia Justenhoven
 * Jürgen Maurer (Lausanne)
 * Moritz Mendel
 * Michaela Paffenholz (Mannheim)
@@ -44,9 +43,10 @@ Modelling and Data Analyses
 
 Data Visualisation
 ******************
-* Sofia Badini
 * Janos Gabler
 * Klara Röhrl
+* Renata Abikeyeva
+* Bahar Coskun
 
 Former Contributors
 ===================
@@ -68,3 +68,6 @@ Former Contributors
 * Rafael Suchy
 * Annica Gehlen
 * Florens Pfann
+* Eva Lucia Kleifgen
+* Sofia Badini
+* Felipe Azuero

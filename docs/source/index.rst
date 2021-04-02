@@ -66,5 +66,27 @@ Supported by
       src="_static/images/impactlab_logo.png" width="150" alt="CoViD-19 Impact
       Lab"> </a> &emsp;
 
+      <br> <br>
+
+      <a href="https://www.dfg.de/en/index.jsp"><img
+      src="_static/images/dfg_logo.jpg" width="200" alt="Deutsche
+      Forschungsgemeinschaft (German Research Foundation)"> </a> &emsp;
+
+      <a href="https://www.nwo.nl/en"><img src="_static/images/NWO_logo_RGB.jpg"
+      width="50" alt="Dutch Research Council (NWO)"> </a> &emsp;
+
+      <a href="https://www.cpb.nl/en"><img src="_static/images/CPB_logo.png"
+      width="200" alt="CPB Netherlands Bureau for Economic Policy Analysis">
+      </a> &emsp;
+
+      <br> <br>
+
+      <a href="https://www.centerdata.nl/en"><img
+      src="_static/images/CentER_logo.png" width="200" alt="CentER data">
+      </a> &emsp;
+
+      <a href="https://www.tilburguniversity.edu"><img
+      src="_static/images/Tilburg_uni_logo.png" width="200"
+      alt="Tilburg University"> </a> &emsp;
 
     </p>
