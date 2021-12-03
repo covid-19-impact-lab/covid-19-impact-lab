@@ -9,10 +9,6 @@ Here is a picture from a typical lab meeting:
 Active Members
 ==============
 
-Community Manager
-*****************
-* `Renata Abikeyeva <mailto:covid-19-impact-lab@outlook.com>`__
-
 Data Collection and Preparation
 *******************************
 * Hans-Martin von Gaudecker

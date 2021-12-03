@@ -30,7 +30,6 @@ data <https://covid-19-impact-lab.iza.org/en/app>`__.
    datasets
    Questionnaire Documentation <https://liss-covid-19-questionnaires-documentation.readthedocs.io/en/latest/>
    Explore Data <https://covid-19-impact-lab.iza.org/app>
-   contribute
    people
 
 
